@@ -9,7 +9,7 @@
  74 ,  رجلان
  20 ,  بسم الله الرحمن الرحيم
  13 ,  قال ابن إسحاق وقال حسان بن ثابت أيضا
- 3 ,  أمر بني قينقاع
+ 3 ,  أمر بني قينقاع (this is a heading which shouldn't be taken as an excerpt. I removed the page number to avoid this issue. we could have left page numbers and  change the code to not catch the excerpts that starts with "###" even though the start is a page number)
  4 ,  قال ابن إسحاق وقال علي بن أبي طالب
  5 ,  فأجابه كعب بن مالك
  4 ,  ومن بني النجار
