@@ -1,0 +1,92 @@
+entity,tag,category,tag_status
+بنو البكير,@BanuBukayr,group,FALSE
+بني البكير,@BanuBukayr,group,FALSE
+الحمس,@Hums,event,FALSE
+المعراج,@MiCraj,event,FALSE
+تفسير ابن هشام,@TafsirIbnHisham,entity,FALSE
+عمرو بن لحي,@CamrIbnLuhayy,person,FALSE
+عوف بن لؤي,@CaufIbnLuay,person,FALSE
+عبد الله بن أمية,@AbdullahIbnUmayya,person,FALSE
+بني غنم بن سواد,@BanuGhanamIbnSawad,group,FALSE
+بنو غنم بن سواد,@BanuGhanamIbnSawad,group,FALSE
+بني نابي بن عمرو,@BanuNabiIbnCamr,group,FALSE
+بنو نابي بن عمرو,@BanuNabiIbnCamr,group,FALSE
+بني حرام بن كعب,@BanuHaramIbnKaCb,group,FALSE
+بنو حرام بن كعب,@BanuHaramIbnKaCb,group,FALSE
+بني سالم بن غنم,@BanuSalimIbnGhanm,group,FALSE
+بنو سالم بن غنم,@BanuSalimIbnGhanm,group,FALSE
+بني سلمة بن سعد,@BanuSalamaIbnSacd,group,FALSE
+بنو سلمة بن سعد,@BanuSalamaIbnSacd,group,FALSE
+بني سواد بن غنم,@BanuSawadIbnGhanm,group,FALSE
+بنو سواد بن غنم,@BanuSawadIbnGhanm,group,FALSE
+ بنى حبيب,@BanuHubayb,group,FALSE
+ بنو حبيب,@BanuHubayb,group,FALSE
+بني النبيت,@BanuNabit,group,FALSE
+بنو النبيت,@BanuNabit,group,FALSE
+بني كبير,@BanuKabir,group,FALSE
+بنو كبير,@BanuKabir,group,FALSE
+بني عبيد بن كعب,@BanuCubaydIbnKaCb,group,FALSE
+بنو عبيد بن كعب,@BanuCubaydIbnKaCb,group,FALSE
+بني عبد بن رزاح,@BanuCabdIbnRizah,group,FALSE
+بنو عبد بن رزاح,@BanuCabdIbnRizah,group,FALSE
+بني جحجبى,@BanuJahjaba,group,FALSE
+بنو جحجبى,@BanuJahjaba,group,FALSE
+بني أحمر,@BanuAhmar,group,FALSE
+بنو أحمر,@BanuAhmar,group,FALSE
+بني جدارة,@BanuJidara,group,FALSE
+بنو جدارة,@BanuJidara,group,FALSE
+بني الأبجر,@BanuAbjar,group,FALSE
+بنو الأبجر,@BanuAbjar,group,FALSE
+بني جزء,@BanuJaz,group,FALSE
+بنو جزء,@BanuJaz,group,FALSE
+بني أصرم,@BanuAsram,group,FALSE
+بنو أصرم,@BanuAsram,group,FALSE
+بني دعد,@BanuDaCd,group,FALSE
+بنو دعد,@BanuDaCd,group,FALSE
+بني البدي,@BanuBadiy,group,FALSE
+بنو البدي,@BanuBadiy,group,FALSE
+ بني طريف,@BanuTarif,group,FALSE
+ بنو طريف,@BanuTarif,group,FALSE
+بني عدي بن نابي,@BanuCadiyIbnNabi,group,FALSE
+بنو عدي بن نابي,@BanuCadiyIbnNabi,group,FALSE
+بني خلدة,@BanuKhalada,group,FALSE
+بنو خلدة,@BanuKhalada,group,FALSE
+بني عسيرة,@BanuCusayra,group,FALSE
+بنو عسيرة,@BanuCusayra,group,FALSE
+بني عائذ,@BanuCaidh,group,FALSE
+بنو عائذ,@BanuCaidh,group,FALSE
+بني عامر بن مالك,@BanuCamirIbnMalik,group,FALSE
+بنو عامر بن مالك,@BanuCamirIbnMalik,group,FALSE
+بني عدي بن عمرو,@BanuCadiyIbnCamr,group,FALSE
+بنو عدي بن عمرو,@BanuCadiyIbnCamr,group,FALSE
+بني حرام بن جندب,@BanuHaramIbnJundub,group,FALSE
+بنو حرام بن جندب,@BanuHaramIbnJundub,group,FALSE
+بني خنساء بن مبذول,@BanuKhansaIbnMabdhul,group,FALSE
+بنو خنساء بن مبذول,@BanuKhansaIbnMabdhul,group,FALSE
+بني ثعلبة بن مازن,@BanuThaClabaIbnMazin,group,FALSE
+بنو ثعلبة بن مازن,@BanuThaClabaIbnMazin,group,FALSE
+بني تميم بن مرة,@BanuTaymIbnMurra,group,FALSE
+راتج,@AhlRatij,group,FALSE
+بني مبذول,@BanuMabdhul,group,FALSE
+بنو مبذول,@BanuMabdhul,group,FALSE
+بني خطمة,@BanuKhutma,group,FALSE
+بنو خطمة,@BanuKhutma,group,FALSE
+ربيع اللآخر,@RabiCAkharlMonth,time,FALSE
+ربيع الثاني,@RabiCAkharlMonth,time,FALSE
+جمادى اللآخر ,@JumadaAkharMonth,time,FALSE
+جمادى الثاني,@JumadaAkharMonth,time,FALSE
+رثاء,@PoetryLament,entity,FALSE
+المستهزءون,@Mockers,group,FALSE
+المستهزءين,@Mockers,group,FALSE
+بني جحش,@BanuJahsh,group,FALSE
+بنو جحش,@BanuJahsh,group,FALSE
+بني خناس,@BanuKhunas,group,FALSE
+بنو خناس,@BanuKhunas,group,FALSE
+بني حبيب,@BanuHabib,group,FALSE
+بنو حبيب,@BanuHabib,group,FALSE
+البدريين,@WitnessesBadr,group,FALSE
+بني السلم,@BanuSalm,group,FALSE
+بنو السلم,@BanuSalm,group,FALSE
+بني رئاب,@BanuRaab,group,FALSE
+بنو رئاب,@BanuRaab,group,FALSE
+سنة الوفود,@YearofDeputations,event,FALSE
