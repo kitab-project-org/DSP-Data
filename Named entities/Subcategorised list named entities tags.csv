@@ -676,7 +676,7 @@
 الصحابة,@Companions,group,Peoples/Religious groups
 أصحاب رسول الله,@Companions,group,Peoples/Religious groups
 مسلمين,@Muslims,group,Peoples/Religious groups
-الشهداء,@martyrs,group,Peoples/Religious groups
+الشهداء,@martyrs,group,collective nouns
 الأحبار,@Rabbis,group,Peoples/Religious groups
 اليهود,@Jews,group,Peoples/Religious groups
 اليهودي,@Jews,group,Peoples/Religious groups
@@ -692,8 +692,8 @@
 المسلمين,@Muslims,group,Peoples/Religious groups
 المسلمون,@Muslims,group,Peoples/Religious groups
 مسلمون,@Muslims,group,Peoples/Religious groups
-للمشركين,@polytheists,group,Peoples/Religious groups
-للمشركون,@polytheists,group,Peoples/Religious groups
+للمشركين,@polytheists,group,collective nouns
+للمشركون,@polytheists,group,collective nouns
 بني,@descendentsTribe,group,Peoples/Religious groups
 القبائل,@Tribe,group,Peoples/Religious groups
 قبائل,@Tribe,group,Peoples/Religious groups
