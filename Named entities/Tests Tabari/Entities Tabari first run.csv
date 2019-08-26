@@ -1,4 +1,4 @@
-﻿entity,tag,category,tag_status
+entity,tag,category,tag_status
 النسب,@genealogy,entity,FALSE
 نسب,@genealogy,entity,FALSE
 عمر,@age,entity,FALSE
@@ -20,7 +20,6 @@
 عدة,@Quantity,entity,FALSE
 تاريخ,@Dating,entity,FALSE
 وقتها,@Dating,entity,FALSE
-,,,FALSE
 الأصنام,@idols,object,FALSE
 أصنامها,@idols,object,FALSE
 رثاء,@PoetryLament,entity,FALSE
@@ -41,7 +40,6 @@
 معد,@MaCd,person,FALSE
 عدنان,@Cadnan,person,FALSE
 عك,@Cak,person,FALSE
-,,,FALSE
 قنص بن معد,@QunusIbnMaCd,person,FALSE
 النعمان بن المنذر,@NuCmanIbnMundhir,person,FALSE
 النعمان,@NuCmanIbnMundhir,person,FALSE
@@ -58,7 +56,6 @@
 عمرو,@CAmrIbnTiban,person,FALSE
 ذي نواس,@DhuNuwas,person,FALSE
 ذو نواس,@DhuNuwas,person,FALSE
-,,,FALSE
 ذي شناتر,@DhuShanatir,person,FALSE
 عبد الله بن الثامر,@CabdallahIbnalThamir,person,FALSE
 ابن الثامر,@CabdallahIbnalThamir,person,FALSE
@@ -84,9 +81,7 @@
 عبد مناف,@AbdManaf,person,FALSE
 هاشم,@Hashim,person,FALSE
 عوف بن لؤي,@CaufIbnLuay,person,FALSE
-,,,FALSE
 عبد شمس,@AbdShams,person,FALSE
-,,,FALSE
 حليمة,@Halima,person,FALSE
 آمنة,@AminaMotherProphet,person,FALSE
 العباس,@CabbasIbnCabdMutallib,person,FALSE
@@ -107,14 +102,11 @@
 أبي جهل,@AbuJahl,person,FALSE
 أبو جهل,@AbuJahl,person,FALSE
 عتبة بن ربيعة,@CutbaIbnRabiCa,person,FALSE
-,,,FALSE
-,,,FALSE
 الأخنس,@AkhnasIbnShariq,person,FALSE
 بلال,@Bilal,person,FALSE
 ابن عباس,@CabdAllahIbnCabbas,person,FALSE
 عمر بن الخطاب,@CumarIbnKhattab,person,FALSE
 عمر,@CumarIbnKhattab,person,FALSE
-,,,FALSE
 إبراهيم,@AbrahamProphet,person,FALSE
 موسى,@MosesProphet,person,FALSE
 عيسى,@JesusProphet,person,FALSE
@@ -143,7 +135,6 @@
 أبو جندل,@AbuJandal,person,FALSE
 عبد الله بن أمية,@AbdullahIbnUmayya,person,FALSE
 مسيلمة,@Musaylima,person,FALSE
-,,,FALSE
 هاجر,@Hajar,person,FALSE
 خندف,@Khindif,person,FALSE
 نوح,@NoahProphet,person,FALSE
@@ -176,7 +167,6 @@
 أولاد,@descendents,group,FALSE
 بني,@descendentsTribe,group,FALSE
 ولد,@descendents,group,FALSE
-,,,FALSE
 القبائل,@TribePeople,group,FALSE
 خزاعة,@BanuKhuzaCa,group,FALSE
 كنانة,@BanuKinana,group,FALSE
@@ -250,7 +240,6 @@
 بني سواد,@BanuSawad,group,FALSE
 بنو سواد,@BanuSawad,group,FALSE
 الأوس,@BanuAus,group,FALSE
-,,,FALSE
 بني عمرو,@BanuCamr,group,FALSE
 بنو عمرو,@BanuCamr,group,FALSE
 بني عبد الأشهل,@BanuCabdAshhal,group,FALSE
@@ -267,8 +256,6 @@
 بنو مازن بن النجار,@BanuMazimIbnNajjar,group,FALSE
 بني بياضة ,@BanuBayadaIbnCamir,group,FALSE
 بنو بياضة,@BanuBayadaIbnCamir,group,FALSE
-,,,FALSE
-,,,FALSE
 بني غنم بن سواد,@BanuGhanamIbnSawad,group,FALSE
 بنو غنم بن سواد,@BanuGhanamIbnSawad,group,FALSE
 بني نابي بن عمرو,@BanuNabiIbnCamr,group,FALSE
@@ -297,8 +284,6 @@
 بنو قينقاع,@BanuQaynuqaC,group,FALSE
 بني قريظة,@BanuQurayza,group,FALSE
 بنو قريظة,@BanuQurayza,group,FALSE
-,,,FALSE
-,,,FALSE
 بني حارثة,@BanuHaritha,group,FALSE
 بنو حارثة,@BanuHaritha,group,FALSE
  بنى حبيب,@BanuHubayb,group,FALSE
@@ -313,15 +298,10 @@
 بنو النبيت,@BanuNabit,group,FALSE
 بني ظفر,@BanuZafar,group,FALSE
 بنو ظفر,@BanuZafar,group,FALSE
-,,,FALSE
-,,,FALSE
-,,,FALSE
-,,,FALSE
 منافقي,@Hypocrites,group,FALSE
 بني ضمرة,@BanuDamra,group,FALSE
 بنو ضمرة,@BanuDamra,group,FALSE
 الكفار,@unbeliever,group,FALSE
-,,,FALSE
 بني كبير,@BanuKabir,group,FALSE
 بنو كبير,@BanuKabir,group,FALSE
 بني عبيد بن كعب,@BanuCubaydIbnKaCb,group,FALSE
@@ -415,8 +395,6 @@
 بكر,@BanuBakr,group,FALSE
 بني جذيمة,@BanuJadhima,group,FALSE
 بنو جذيمة,@BanuJadhima,group,FALSE
-,,,FALSE
-,,,FALSE
 أولادها,@descendants,group,FALSE
 أولاده,@descendents,group,FALSE
 ولدا,@descendents,group,FALSE
@@ -435,7 +413,6 @@
 أصحابه,@Companions,group,FALSE
 للمهاجرين,@Immigrants,group,FALSE
 الحبشة,@theAbyssinians,group,FALSE
-,,,FALSE
 بني قيس بن ثعلبة,@BanuQaysIbnThaCliba,group,FALSE
 بنو قيس بن ثعلبة,@BanuQaysIbnThaCliba,group,FALSE
 المستهزءون,@Mockers,group,FALSE
@@ -453,11 +430,8 @@
 المنافقين ,@Hypocrites,group,FALSE
 المنافقون ,@Hypocrites,group,FALSE
 أحبار,@Rabbis,group,FALSE
-,,,FALSE
-,,,FALSE
 المسلمين,@Muslims,group,FALSE
 المسلمون,@Muslims,group,FALSE
-,,,FALSE
 العدوة,@enemies,group,FALSE
 للمشركين,@polytheists,group,FALSE
 للمشركون,@polytheists,group,FALSE
@@ -542,7 +516,6 @@
 تبوك,@Tabuk,place,FALSE
 فلسطين,@Palestine,place,FALSE
 سيف البحر,@Coast,place,FALSE
-,,,FALSE
 مصر,@Egypt,place,FALSE
 الحضر,@Hatra,place,FALSE
 للكعبة,@KaCba,place,FALSE
@@ -618,7 +591,6 @@
 تمريض,@Illness,event,FALSE
 المرض,@Illness,event,FALSE
 سقيفة,@Saqifa,event,FALSE
-,,,FALSE
 قتله,@killed,event,FALSE
 موته,@death,event,FALSE
 قبره,@Burial,event,FALSE
@@ -652,7 +624,6 @@
 مقتله,@killed,event,FALSE
 هاجر,@migration,event,FALSE
 للقتال,@fighting,event,FALSE
-,,,FALSE
 يوم بني قريظة,@BanuQurayzaRaid,event,FALSE
 أمر الخندق,@TrenchBattle,event,FALSE
 للصلح,@Truce,event,FALSE
@@ -712,7 +683,6 @@
 جمادى الثانية,@JumadaAkharMonth,time,FALSE
 ذي الحجة,@DhuHijjaMonth,time,FALSE
 ذو الحجة,@DhuHijjaMonth,time,FALSE
-,,,FALSE
 سنة ثماني,@YearEight,time,FALSE
 القول,@sayings,entity,FALSE
 الدلالة,@Proofs,entity,FALSE
@@ -774,7 +744,6 @@
 الشياطين,@IblisSatan,person,FALSE
 شيطانا,@IblisSatan,person,FALSE
 شيطان,@IblisSatan,person,FALSE
-,,person,FALSE
 جبرئيل,@GabrielAngel,person,FALSE
 ميكائيل,@MichaelAngel,person,FALSE
 ملك الموت,@AngelofDeath,person,FALSE
