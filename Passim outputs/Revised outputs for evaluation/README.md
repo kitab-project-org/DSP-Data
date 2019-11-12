@@ -1,6 +1,4 @@
-README
-
-Original vs. Evaluation dataset tags
+# **Original vs. Evaluation dataset tags**
 
 This folder contains passim outputs of two types, original with the alignments only tagged automatically and evaluation sets which have manual evaluation tags added.
 
