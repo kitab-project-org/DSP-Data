@@ -14,4 +14,4 @@ This folder contains passim outputs of two types, original with the alignments o
 
 \| : Indicates where an alignment ends
 
-\*\| : Indicates that none of the alignment is meaningful
+\*\| : When following both the \# tag and \& tag in one alignment, indicates that none of the alignment is meaningful
