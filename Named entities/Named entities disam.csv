@@ -1,1063 +1,1063 @@
-﻿entity,tag,category,Tagged
-آدم,@AdamProphet,person,TRUE
-إسماعيل,@IsmaCilProphet,person,TRUE
-إبراهيم,@AbrahamProphet,person,TRUE
-موسى,@MosesProphet,person,TRUE
-عيسى,@JesusProphet,person,TRUE
-نوح,@NoahProphet,person,TRUE
-حواء,@Eve,person,TRUE
-ابراهيم,@AbrahamProphet,person,TRUE
-قابيل بن آدم,@Cain,person,TRUE
-هابيل,@Abel,person,TRUE
-شيثا,@Seth,person,TRUE
-شيث,@Seth,person,TRUE
-داود,@DavidProphet,person,TRUE
-خنوخ,@Enoch,person,TRUE
-يرد,@Jared,person,TRUE
-يارد,@Jared,person,TRUE
-لمك,@Lamech,person,TRUE
-سام,@Shem,person,TRUE
-لسام,@Shem,person,TRUE
-حام,@Ham,person,TRUE
-لجام,@Ham,person,TRUE
-يافث,@Japheth,person,TRUE
-جم الشيذ,@Jemshed,person,TRUE
-جم,@Jemshed,person,TRUE
-يوسف,@Joseph,person,TRUE
-سليمان,@Solomon,person,TRUE
-هود,@HudProphet,person,TRUE
-صالح,@SalihProphet,person,TRUE
-لوط,@LotProphet,person,TRUE
-لوطا,@LotProphet,person,TRUE
-سارة,@Sarah,person,TRUE
-اسماعيل,@IshmaCilProphet,person,TRUE
-إسحاق,@IsaacProphet,person,TRUE
-يعقوب,@JacobProphet,person,TRUE
-امرأة لوط,@WifeofLot,person,TRUE
-شعيب,@ShuCaybProphet,person,TRUE
-يوسف,@Joseph,person,TRUE
-بنيامين,@Benjamin,person,TRUE
-أيوب,@Job,person,TRUE
-الخضر,@Khidr,person,TRUE
-هارون,@Aaron,person,TRUE
-يوشع,@JoshuaProphet,person,TRUE
-كالب,@CalebIbnJepunneh,person,TRUE
-حزقيل,@EzekielProphet,person,TRUE
-هزقيل,@EzekielProphet,person,TRUE
-الياس,@ElijahProphet,person,TRUE
-إلياس بن ياسين,@ElijahProphet,person,TRUE
-إلياس,@ElijahProphet,person,TRUE
-اليسع,@Elisha,person,TRUE
-شمويل,@SamuelProphet,person,TRUE
-أشمويل,@SamuelProphet,person,TRUE
-طالوت,@Saul,person,TRUE
-زكرياء,@Zechariah,person,TRUE
-يحيى,@JohntheBaptist,person,TRUE
-شعيا,@Isaiah,person,TRUE
-إرميا,@JeremiahProphet,person,TRUE
-دانيال,@DanielProphet,person,TRUE
-يوسف,@Joseph,person,TRUE
-ابن هشام,@IbnHishamAuthor,person,TRUE
-معد,@MaCd,person,TRUE
-عدنان,@Cadnan,person,TRUE
-عك,@Cak,person,TRUE
-قضاعة,@QudaCa,person,TRUE
-قنص بن معد,@QunusIbnMaCd,person,TRUE
-النعمان بن المنذر,@NuCmanIbnMundhir,person,TRUE
-النعمان,@NuCmanIbnMundhir,person,TRUE
-لخم بن عدي,@LakhmIbnCadi,person,TRUE
-عمرو بن عامر,@CamrIbnCamir,person,TRUE
-ربيعة بن نصر,@RabiCIbnNasr,person,TRUE
-سطيح,@SatihSoothsayer,person,TRUE
-أبرهة,@Abraha,person,TRUE
-شق,@ShiqqSoothsayer,person,TRUE
-بجيلة,@Bajila,person,TRUE
-تبان,@Tiban,person,TRUE
-عمرو بن طلة,@CAmrIbnTalla,person,TRUE
-حسان بن تبان,@HassanIbnTiban,person,TRUE
-عمرو,@CAmrIbnTiban,person,TRUE
-ذي نواس,@DhuNuwas,person,TRUE
-ذي شناتر,@DhuShanatir,person,TRUE
-عبد الله بن الثامر,@CabdallahIbnalThamir,person,TRUE
-ابن الثامر,@CabdallahIbnalThamir,person,TRUE
-قيصر,@EmperorRome,person,TRUE
-أرياط,@Aryat,person,TRUE
-النجاشي,@Negus,person,TRUE
-نفيل,@NufaylIbnHabib,person,TRUE
-عبد المطلب,@AbdalMuttalib,person,TRUE
-حناطة,@Hunata,person,TRUE
-ذو نفر,@DhuNafr,person,TRUE
-أنيس,@Unays,person,TRUE
-خويلد,@KhuwaylidIbnWathila,person,TRUE
-الأسود بن مقصود,@al-AswadIbnMafsud,person,TRUE
-سيف بن ذي يزن,@SayfIbnDhuYazan,person,TRUE
-ابن ذي يزن,@SayfIbnDhuYazan,person,TRUE
-وهرز,@Wahriz,person,TRUE
-كسرى,@ChosroesShah,person,TRUE
-نزار بن معد,@NizarIbnMaCd,person,TRUE
-مضر,@Mudar,person,TRUE
-أنمار,@Anmar,person,TRUE
-إلياس,@Ilyas,person,TRUE
-عمرو بن لحي,@CamrIbnLuhayy,person,TRUE
-عبد مناف,@AbdManaf,person,TRUE
-هاشم,@Hashim,person,TRUE
-عوف بن لؤي,@CaufIbnLuay,person,TRUE
-قصي بن كلاب,@QusayyIbnKilab,person,TRUE
-عبد شمس,@AbdShams,person,TRUE
-عبد الله بن عبد المطلب,@AbdAllahIbnMutallib,person,TRUE
-حليمة,@Halima,person,TRUE
-آمنة,@AminaMotherProphet,person,TRUE
-العباس,@CabbasIbnCabdMutallib,person,TRUE
-أبي طالب,@AbuTalib,person,TRUE
-أبو طالب,@AbuTalib,person,TRUE
-بحيرى,@BahiraMonk,person,TRUE
-خديجة,@KhadijaWife,person,TRUE
-جبريل,@GabrielAngel,person,TRUE
-علي بن أبي طالب,@CaliIbnAbiTalib,person,TRUE
-علي,@CaliIbnAbiTalib,person,TRUE
-أبي بكر,@AbuBakr,person,TRUE
-أبو بكر,@AbuBakr,person,TRUE
-عثمان,@CuthmanIbnAffan,person,TRUE
-الزبير ,@ZubayrIbnAwwam,person,TRUE
-طلحة,@TalhaIbnUbayullah,person,TRUE
-الوليد بن المغيرة,@WalidIbnMughira,person,TRUE
-حمزة,@HamzaIbnCabdMutallib,person,TRUE
-أبي جهل,@AbuJahl,person,TRUE
-أبو جهل,@AbuJahl,person,TRUE
-عتبة بن ربيعة,@CutbaIbnRabiCa,person,TRUE
-أبو سفيان,@AbuSufyan,person,TRUE
-أبي سفيان,@AbuSufyan,person,TRUE
-الأخنس,@AkhnasIbnShariq,person,TRUE
-بلال,@Bilal,person,TRUE
-ابن عباس,@CabdAllahIbnCabbas,person,TRUE
-عمر بن الخطاب,@CumarIbnKhattab,person,TRUE
-عمر,@CumarIbnKhattab,person,TRUE
-أسعد بن زرارة,@AsaCdIbnZurara,person,TRUE
-ذي القرنين,@DhuQarnayn,person,TRUE
-ذو القرنين,@DhuQarnayn,person,TRUE
-ذا القرنين,@DhuQarnayn,person,TRUE
-زكريا,@ZakariaProphet,person,TRUE
-مريم,@Maryam,person,TRUE
-عامر,@Camir,person,TRUE
-عائشة,@CaishaProphetWife,person,TRUE
-عبيدة بن الحارث,@UbaydaIbnHarith,person,TRUE
-أبي سفيان,@AbuSufyan,person,TRUE
-أبو سفيان,@AbuSufyan,person,TRUE
-سهيل بن عمرو,@SuhaylIbnCamr,person,TRUE
-أبي العاص بن الربيع,@AbuCasIbnRabiCa,person,TRUE
-أبو العاص بن الربيع,@AbuCasIbnRabiCa,person,TRUE
-أبي العاص,@AbuCasIbnRabiCa,person,TRUE
-أبو العاص,@AbuCasIbnRabiCa,person,TRUE
-زينب,@ZaynabBintMuhammad,person,TRUE
-زيد بن حارثة,@ZaydIbnHaritha,person,TRUE
-هند,@Hind,person,TRUE
-عمرو بن العاص ,@CamrIbnCas,person,TRUE
-خالد بن الوليد,@KhalidIbnWalid,person,TRUE
-أبي جندل,@AbuJandal,person,TRUE
-أبو جندل,@AbuJandal,person,TRUE
-عبد الله بن أمية,@AbdullahIbnUmayya,person,TRUE
-مسيلمة,@Musaylima,person,TRUE
-هاجر,@Hajar,person,TRUE
-خندف,@Khindif,person,TRUE
-قصي بن كلاب,@QusayyIbnKilab,person,TRUE
-قصي,@QusayyIbnKilab,person,TRUE
-عبد الله,@CabdAllahIbnMutallib,person,TRUE
-عبد الله بن عبد المطلب,@CabdAllahIbnMutallib,person,TRUE
-أبا طالب,@AbuTalib,person,TRUE
-أبا بكر,@AbuBakr,person,TRUE
-عتبة,@CutbaIbnRabiCa,person,TRUE
-أبا جهل,@AbuJahl,person,TRUE
-ملوك الروم,@EmperorRome,person,TRUE
-للعباس,@CabbasIbnCabdMutallib,person,TRUE
-عمرو,@CamrIbnCas,person,TRUE
-خالد,@KhalidIbnWalid,person,TRUE
-سودة,@SawdaWife,person,TRUE
-زينب بنت جحش,@ZaynadBintJahshWife,person,TRUE
-أم سلمة,@UmSalamaWife,person,TRUE
-حفصة,@HafsaWife,person,TRUE
-أم حبيبة,@UmHabibaWife,person,TRUE
-جويرية,@JuwayriyaWife,person,TRUE
-صفية,@SafiyyaWife,person,TRUE
-ميمونة,@MaymunaWife,person,TRUE
-زينب بنت خزيمة,@ZaynadBintKhuzaymaWife,person,TRUE
-جيومرت,@Jayumart,person,TRUE
-يزدجرد بن شهريار,@YazdjardIbnShahriyar,person,TRUE
-عبد الحارث,@AbdHarith,person,TRUE
-أوشهنج,@Oshahanj,person,TRUE
-مهلائيل,@Mahalel,person,TRUE
-بيوراسب,@BewarasbDahhak,person,TRUE
-الازدهاق,@BewarasbDahhak,person,TRUE
-الضحاك,@BewarasbDahhak,person,TRUE
-طهمورث,@Tahmurath,person,TRUE
-متوشلخ,@Methuselah,person,TRUE
-الإسكندر,@Alexander,person,TRUE
-نمرود,@Nimrod,person,TRUE
-أفريدون,@Afaridhun,person,TRUE
-معاوية بن بكر,@MuaCwiyaIbnBakr,person,TRUE
-بختنصر,@Nebuchadnezzar,person,TRUE
-منوشهر,@Manushihr,person,TRUE
-امرؤ القيس,@ImruQays,person,TRUE
-قابوس,@QabusPharoah,person,TRUE
-السامري,@Samiri,person,TRUE
-قارون,@KorahIbnIzharIbnKohath,person,TRUE
-زو,@Zaw,person,TRUE
-كيقباذ,@Kayqubadh,person,TRUE
-جالوت,@Goliath,person,TRUE
-بلقيس,@Bilqis,person,TRUE
-كيقاوس,@Kayqawus,person,TRUE
-فراسياب,@Frasiyat,person,TRUE
-كيخسرو,@Kaykhusraw,person,TRUE
-أسا بن أبيا,@AsaIbnAbija,person,TRUE
-زرح,@Zerah,person,TRUE
-سنحاريب,@Sennacherib,person,TRUE
-لهراسب,@Luhrasb,person,TRUE
-بشتاسب,@Bishtasb,person,TRUE
-داريوش,@Darius,person,TRUE
-زرادشت,@Zoroaster,person,TRUE
-برخيا,@BerechiahProphet,person,TRUE
-بهمن,@BahmanIbnIsfandiyar,person,TRUE
-أردشير بهمن,@ArdashirBahman,person,TRUE
-ساسان,@Sasan,person,TRUE
-دارا الأكبر,@Darius,person,TRUE
-كيرش,@Cyrus,person,TRUE
-دارا الأصغر,@DariusYounger,person,TRUE
-قسطنطين,@ConstantineEmperor,person,TRUE
-هيردوس,@Herod,person,TRUE
-أردشير بن بابك,@ArdashirIbnBabik,person,TRUE
-عمرو بن ظرب,@CAmrIbnZarib,person,TRUE
-الزباء,@Zabba,person,TRUE
-طسم,@Tasm,person,TRUE
-جديس,@Jadis,person,TRUE
-إبليس,@IblisSatan,person,TRUE
-الشياطين,@IblisSatan,person,TRUE
-شيطانا,@IblisSatan,person,TRUE
-شيطان,@IblisSatan,person,TRUE
-جبرئيل,@GabrielAngel,person,TRUE
-ميكائيل,@MichaelAngel,person,TRUE
-ملك الموت,@AngelofDeath,person,TRUE
-خزاعة,@BanuKhuzaCa,group,TRUE
-كنانة,@BanuKinana,group,TRUE
-قريش,@Quraysh,group,TRUE
-بني هاشم,@BanuHashim,group,TRUE
-بنو هاشم,@BanuHashim,group,TRUE
-بني أمية,@BanuUmayya,group,TRUE
-بنو أمية,@BanuUmayya,group,TRUE
-بني أسد,@BanuAsad,group,TRUE
-بنو أسد,@BanuAsad,group,TRUE
-بنو عبد شمس,@BanuCabdShams,group,TRUE
-بني عبد شمس,@BanuCabdShams,group,TRUE
-بني نوفل,@BanuNaufal,group,TRUE
-بنو نوفل,@BanuNaufal,group,TRUE
-بني عبد بن قصي,@BanuCabdIbnQusayy,group,TRUE
-بنو عبد بن قصي,@BanuCabdIbnQusayy,group,TRUE
-بني عبد الدار بن قصي,@BanuCabdDarIbnQusayy,group,TRUE
-بنو عبد الدار بن قصي,@BanuCabdDarIbnQusayy,group,TRUE
-بني عبد الدار,@BanuCabdDarIbnQusayy,group,TRUE
-بنو عبد الدار,@BanuCabdDarIbnQusayy,group,TRUE
-بني زهرة,@BanuZuhra,group,TRUE
-بنو زهرة,@BanuZuhra,group,TRUE
- بني هذيل,@BanuHudayl,group,TRUE
- بنو هذيل,@BanuHudayl,group,TRUE
-بني تيم,@BanuTaym,group,TRUE
-بنو تيم,@BanuTaym,group,TRUE
-بني مخزوم,@BanuMakhzum,group,TRUE
-بنو مخزوم,@BanuMakhzum,group,TRUE
-بني جمح,@BanuJumah,group,TRUE
-بنو جمح,@BanuJumah,group,TRUE
-بني سهم,@BanuSahm,group,TRUE
-بنو سهم,@BanuSahm,group,TRUE
-سهم,@BanuSahm,group,TRUE
-بني عدي,@BanuCadiyy,group,TRUE
-بنو عدي,@BanuCadiyy,group,TRUE
-بني عامر,@BanuCamir,group,TRUE
-بنو عامر,@BanuCamir,group,TRUE
-بني الحارث,@BanuHarith,group,TRUE
-بنو الحارث,@BanuHarith,group,TRUE
-ثقيف,@BanuThaqif,group,TRUE
-بني كلب,@BanuKalb,group,TRUE
-بنو كلب,@BanuKalb,group,TRUE
-بني حنيفة,@BanuHanifa,group,TRUE
-بنو حنيفة,@BanuHanifa,group,TRUE
-بني النجار,@BanuNajjar,group,TRUE
-بنو النجار,@BanuNajjar,group,TRUE
-بني زريق,@BanuZurayq,group,TRUE
-بنو زريق,@BanuZurayq,group,TRUE
-بني عوف,@BanuCauf,group,TRUE
-بنو عوف,@BanuCauf,group,TRUE
-بني سالم,@BanuSalim,group,TRUE
-بنو سالم,@BanuSalim,group,TRUE
-بني سلمة,@BanuSalima,group,TRUE
-بنو سلمة,@BanuSalima,group,TRUE
-بني سواد,@BanuSawad,group,TRUE
-بنو سواد,@BanuSawad,group,TRUE
-الأوس,@BanuAus,group,TRUE
-الأوس,@BanuAus,group,TRUE
-بني عمرو,@BanuCamr,group,TRUE
-بنو عمرو,@BanuCamr,group,TRUE
-بني عبد الأشهل,@BanuCabdAshhal,group,TRUE
-بنو عبد الأشهل,@BanuCabdAshhal,group,TRUE
-بني حارثة بن الحارث,@BanuHarithIbnHarith,group,TRUE
-بنو حارثة بن الحارث,@BanuHarithIbnHarith,group,TRUE
-بني  عمرو بن عوف,@BanuCamrIbnCauf,group,TRUE
-بنو  عمرو بن عوف,@BanuCamrIbnCauf,group,TRUE
-بني عمرو بن مبذول,@BanuCamrIbnMabdhul,group,TRUE
-بنو عمرو بن مبذول,@BanuCamrIbnMabdhul,group,TRUE
- بني عمرو بن مالك,@BanuCamrIbnMalik,group,TRUE
- بنو عمرو بن مالك,@BanuCamrIbnMalik,group,TRUE
-بني مازن بن النجار,@BanuMazimIbnNajjar,group,TRUE
-بنو مازن بن النجار,@BanuMazimIbnNajjar,group,TRUE
-بني بياضة ,@BanuBayadaIbnCamir,group,TRUE
-بنو بياضة,@BanuBayadaIbnCamir,group,TRUE
-بني زريق,@BanuZurayq,group,TRUE
-بنو زريق,@BanuZurayq,group,TRUE
-بني غنم بن سواد,@BanuGhanamIbnSawad,group,TRUE
-بنو غنم بن سواد,@BanuGhanamIbnSawad,group,TRUE
-بني نابي بن عمرو,@BanuNabiIbnCamr,group,TRUE
-بنو نابي بن عمرو,@BanuNabiIbnCamr,group,TRUE
-بني حرام بن كعب,@BanuHaramIbnKaCb,group,TRUE
-بنو حرام بن كعب,@BanuHaramIbnKaCb,group,TRUE
-بني عوف بن الخزرج,@BanuCaufIbnKhazraj,group,TRUE
-بنو عوف بن الخزرج,@BanuCaufIbnKhazraj,group,TRUE
-بني ساعدة,@BanuSaCidaIbnKaCb,group,TRUE
-بنو ساعدة,@BanuSaCidaIbnKaCb,group,TRUE
-بني مازن بن النجار,@BanuMazinIbnNajjar,group,TRUE
-بنو مازن بن النجار,@BanuMazinIbnNajjar,group,TRUE
-بني سالم بن غنم,@BanuSalimIbnGhanm,group,TRUE
-بنو سالم بن غنم,@BanuSalimIbnGhanm,group,TRUE
-الخزرج بن حارثة,@BanuKhazrajIbnHaritha,group,TRUE
-بلحارث بن الخزرج,@BanuHarithIbnKhazraj,group,TRUE
-بني سلمة بن سعد,@BanuSalamaIbnSacd,group,TRUE
-بنو سلمة بن سعد,@BanuSalamaIbnSacd,group,TRUE
-بني سواد بن غنم,@BanuSawadIbnGhanm,group,TRUE
-بنو سواد بن غنم,@BanuSawadIbnGhanm,group,TRUE
-بني النضير,@BanuNadir,group,TRUE
-بنو النضير,@BanuNadir,group,TRUE
-بني ثعلبة,@BanuThaClaba,group,TRUE
-بنو ثعلبة,@BanuThaClaba,group,TRUE
-بني قينقاع,@BanuQaynuqaC,group,TRUE
-بنو قينقاع,@BanuQaynuqaC,group,TRUE
-بني قريظة,@BanuQurayza,group,TRUE
-بنو قريظة,@BanuQurayza,group,TRUE
-بني زريق,@BanuZurayq,group,TRUE
-بنو زريق,@BanuZurayq,group,TRUE
-بني حارثة,@BanuHaritha,group,TRUE
-بنو حارثة,@BanuHaritha,group,TRUE
- بنى حبيب,@BanuHubayb,group,TRUE
- بنو حبيب,@BanuHubayb,group,TRUE
-بني ضبيعة,@BanuDubayCa,group,TRUE
-بنو ضبيعة,@BanuDubayCa,group,TRUE
-بني لوذان,@BanuLaudhan,group,TRUE
-بنو لوذان,@BanuLaudhan,group,TRUE
-بني عبيد,@BanuCubayd,group,TRUE
-بنو عبيد,@BanuCubayd,group,TRUE
-بني النبيت,@BanuNabit,group,TRUE
-بنو النبيت,@BanuNabit,group,TRUE
-بني ظفر,@BanuZafar,group,TRUE
-بنو ظفر,@BanuZafar,group,TRUE
-بني عبد الأشهل,@BanuCabdAshhal,group,TRUE
-بنو عبد الأشهل,@BanuCabdAshhal,group,TRUE
-بني جشم,@BanuJusham,group,TRUE
-بنو جشم,@BanuJusham,group,TRUE
-بني ضمرة,@BanuDamra,group,TRUE
-بنو ضمرة,@BanuDamra,group,TRUE
-بني كبير,@BanuKabir,group,TRUE
-بنو كبير,@BanuKabir,group,TRUE
-بني عبيد بن كعب,@BanuCubaydIbnKaCb,group,TRUE
-بنو عبيد بن كعب,@BanuCubaydIbnKaCb,group,TRUE
-بني عبد بن رزاح,@BanuCabdIbnRizah,group,TRUE
-بنو عبد بن رزاح,@BanuCabdIbnRizah,group,TRUE
-بني جحجبى,@BanuJahjaba,group,TRUE
-بنو جحجبى,@BanuJahjaba,group,TRUE
-بني غنم,@BanuGhanm,group,TRUE
-بنو غنم,@BanuGhanm,group,TRUE
-بني معاوية,@BanuMuCawiya,group,TRUE
-بنو معاوية,@BanuMuCawiya,group,TRUE
-بني امرئ القيس,@BanuImruQays,group,TRUE
-بنو امرئ القيس,@BanuImruQays,group,TRUE
-بني زيد,@BanuZayd,group,TRUE
-بنو زيد,@BanuZayd,group,TRUE
-بني أحمر,@BanuAhmar,group,TRUE
-بنو أحمر,@BanuAhmar,group,TRUE
-بني جشم,@BanuJusham,group,TRUE
-بنو جشم,@BanuJusham,group,TRUE
-بني جدارة,@BanuJidara,group,TRUE
-بنو جدارة,@BanuJidara,group,TRUE
-بني الأبجر,@BanuAbjar,group,TRUE
-بنو الأبجر,@BanuAbjar,group,TRUE
-بني جزء,@BanuJaz,group,TRUE
-بنو جزء,@BanuJaz,group,TRUE
-بني أصرم,@BanuAsram,group,TRUE
-بنو أصرم,@BanuAsram,group,TRUE
-بني دعد,@BanuDaCd,group,TRUE
-بنو دعد,@BanuDaCd,group,TRUE
-بني البدي,@BanuBadiy,group,TRUE
-بنو البدي,@BanuBadiy,group,TRUE
- بني طريف,@BanuTarif,group,TRUE
- بنو طريف,@BanuTarif,group,TRUE
-بني النعمان,@BanuNuCman,group,TRUE
-بنو النعمان,@BanuNuCman,group,TRUE
-بني عدي بن نابي,@BanuCadiyIbnNabi,group,TRUE
-بنو عدي بن نابي,@BanuCadiyIbnNabi,group,TRUE
-بني خالد,@BanuKhalid,group,TRUE
-بنو خالد,@BanuKhalid,group,TRUE
-بني خلدة,@BanuKhalada,group,TRUE
-بنو خلدة,@BanuKhalada,group,TRUE
-بني العجلان,@BanuCajlan,group,TRUE
-بنو العجلان,@BanuCajlan,group,TRUE
-بني عسيرة,@BanuCusayra,group,TRUE
-بنو عسيرة,@BanuCusayra,group,TRUE
-بني عبيد بن ثعلبة,@BanuCubaydIbnThaClaba,group,TRUE
-بنو عبيد بن ثعلبة,@BanuCubaydIbnThaClaba,group,TRUE
-بني عائذ,@BanuCaidh,group,TRUE
-بنو عائذ,@BanuCaidh,group,TRUE
-بني عامر بن مالك,@BanuCamirIbnMalik,group,TRUE
-بنو عامر بن مالك,@BanuCamirIbnMalik,group,TRUE
-بني عدي بن عمرو,@BanuCadiyIbnCamr,group,TRUE
-بنو عدي بن عمرو,@BanuCadiyIbnCamr,group,TRUE
-بني عدي بن النجار,@BanuCadiyIbnNajjar,group,TRUE
-بنو عدي بن النجار,@BanuCadiyIbnNajjar,group,TRUE
-بني حرام بن جندب,@BanuHaramIbnJundub,group,TRUE
-بنو حرام بن جندب,@BanuHaramIbnJundub,group,TRUE
-بني خنساء بن مبذول,@BanuKhansaIbnMabdhul,group,TRUE
-بنو خنساء بن مبذول,@BanuKhansaIbnMabdhul,group,TRUE
-بني ثعلبة بن مازن,@BanuThaClabaIbnMazin,group,TRUE
-بنو ثعلبة بن مازن,@BanuThaClabaIbnMazin,group,TRUE
- بني دينار,@BanuDinarIbnNajjar,group,TRUE
- بنو دينار,@BanuDinarIbnNajjar,group,TRUE
-بني الحارث بن فهر,@BanuHarithIbnFihr,group,TRUE
-بنو الحارث بن فهر,@BanuHarithIbnFihr,group,TRUE
-بني الحارث بن الخزرج,@BanuHarithIbnKhazraj,group,TRUE
-بنو الحارث بن الخزرج,@BanuHarithIbnKhazraj,group,TRUE
-بني تميم بن مرة,@BanuTaymIbnMurra,group,TRUE
-بني سليم,@BanuSulaym,group,TRUE
-بنو سليم,@BanuSulaym,group,TRUE
-راتج,@AhlRatij,group,TRUE
-بني مبذول,@BanuMabdhul,group,TRUE
-بنو مبذول,@BanuMabdhul,group,TRUE
-بني مازن,@BanuMazin,group,TRUE
-بنو مازن,@BanuMazin,group,TRUE
-بني الحبلى,@BanuHubla,group,TRUE
-بنو الحبلى,@BanuHubla,group,TRUE
-بني خطمة,@BanuKhutma,group,TRUE
-بنو خطمة,@BanuKhutma,group,TRUE
-غطفان,@BanuGhatafan,group,TRUE
-بني هدل,@BanuHadl,group,TRUE
-بنو هدل,@BanuHadl,group,TRUE
-بني لحيان,@BanuLihyan,group,TRUE
-بنو لحيان,@BanuLihyan,group,TRUE
-بني المصطلق,@BanuMustaliq,group,TRUE
-بنو المصطلق,@BanuMustaliq,group,TRUE
-بكر,@BanuBakr,group,TRUE
-بني جذيمة,@BanuJadhima,group,TRUE
-بنو جذيمة,@BanuJadhima,group,TRUE
-قضاعة,@BanuQudaCa,group,TRUE
-بني سعد,@BanuSaCd,group,TRUE
-بنو سعد,@BanuSaCd,group,TRUE
-بني عبد مناف,@BanuCabdManaf,group,TRUE
-بنو عبد مناف,@BanuCabdManaf,group,TRUE
-الخزرج,@BanuKhazraj,group,TRUE
-بني قيس بن ثعلبة,@BanuQaysIbnThaCliba,group,TRUE
-بنو قيس بن ثعلبة,@BanuQaysIbnThaCliba,group,TRUE
-مخزوم,@BanuMakhzum,group,TRUE
-بني عمرو بن عوف,@BanuCamrIbnCauf,group,TRUE
-بنو عمرو بن عوف,@BanuCamrIbnCauf,group,TRUE
-بني جحش,@BanuJahsh,group,TRUE
-بنو جحش,@BanuJahsh,group,TRUE
-بني عمرو,@BanuCamrIbnCauf,group,TRUE
-بنو عمرو,@BanuCamrIbnCauf,group,TRUE
-بني عوف,@BanuCaufIbnKhazraj,group,TRUE
-بنو عوف,@BanuCaufIbnKhazraj,group,TRUE
-بني امرئ القيس,@BanuImruQays,group,TRUE
-بنو امرئ القيس,@BanuImruQays,group,TRUE
-بني خناس,@BanuKhunas,group,TRUE
-بنو خناس,@BanuKhunas,group,TRUE
-بني حبيب,@BanuHabib,group,TRUE
-بنو حبيب,@BanuHabib,group,TRUE
-بني عبد الدار,@BanuCabdDar,group,TRUE
-بنو عبد الدار,@BanuCabdDar,group,TRUE
-بني عامر,@BanuCamirIbnLuayy,group,TRUE
-بنو عامر,@BanuCamirIbnLuayy,group,TRUE
-بني المطلب,@BanuMuttalib,group,TRUE
-بنو المطلب,@BanuMuttalib,group,TRUE
-بني السلم,@BanuSalm,group,TRUE
-بنو السلم,@BanuSalm,group,TRUE
-بني عوف,@BanuCaufIbnKhazraj,group,TRUE
-بنو عوف,@BanuCaufIbnKhazraj,group,TRUE
-بني الخزرج,@BanuKhazraj,group,TRUE
-بنو الخزرج,@BanuKhazraj,group,TRUE
-بني الحارث,@BanuHarithIbnFihr,group,TRUE
-بنو الحارث,@BanuHarithIbnFihr,group,TRUE
-بني مالك,@BanuMalik,group,TRUE
-بنو مالك,@BanuMalik,group,TRUE
-بني رئاب,@BanuRaab,group,TRUE
-بنو رئاب,@BanuRaab,group,TRUE
-هوازن,@Hawazin,group,TRUE
-بني تميم,@BanuTaym,group,TRUE
-بنو تميم,@BanuTaym,group,TRUE
-بني زبيد,@BanuZubayd,group,TRUE
-بنو زبيد,@BanuZubayd,group,TRUE
-كندة,@BanuKinda,group,TRUE
-أهل جرش,@JurashPeople,group,TRUE
-بني الحارث بن كعب,@BanuHarithIbnKaCb,group,TRUE
-بنو الحارث بن كعب,@BanuHarithIbnKaCb,group,TRUE
-بني الملوح,@BanuMulawwah,group,TRUE
-بنو الملوح,@BanuMulawwah,group,TRUE
-بني فزارة,@BanuFazara,group,TRUE
-بنو فزارة,@BanuFazara,group,TRUE
-بني العنبر,@BanuACnbar,group,TRUE
-بنو العنبر,@BanuACnbar,group,TRUE
-بني مرة,@BanuMurra,group,TRUE
-بنو مرة,@BanuMurra,group,TRUE
-بني ساعدة,@BanuSaCida,group,TRUE
-بنو ساعدة,@BanuSaCida,group,TRUE
-بنو آدم,@ChildrenofAdam,group,TRUE
-بني آدم,@ChildrenofAdam,group,TRUE
-بني إسرائيل,@ChildrenofIsrael,group,TRUE
-بنو إسرائيل,@ChildrenofIsrael,group,TRUE
-بني نوح,@ChildrenofNoah,group,TRUE
-بني شيث,@ChildrenofSeth,group,TRUE
-بني إسماعيل,@ChildrenofIshmael,group,TRUE
-بني إسرائيل,@ChildrenofIsrael,group,TRUE
-عاد,@BanuCAd,group,TRUE
-ثمود,@BanuThamud,group,TRUE
-قوم لوط,@PeopleofLot,group,TRUE
-ولد إسماعيل,@ChildrenofIshmael,group,TRUE
-الأزد,@BanuAzd,group,TRUE
-لخم,@BanuLakhm,group,TRUE
-جذام,@BanuJudham,group,TRUE
-عاملة,@BanuCamila,group,TRUE
-طيئ,@BanuTayyi,group,TRUE
-كلب,@BanuKalb,group,TRUE
-السكون,@BanuSakkun,group,TRUE
-بلحارث بن كعب,@BanuBalharithIbnKaCb,group,TRUE
-إياد,@BanuIyad,group,TRUE
- جعفي,@BanuJuCfi,group,TRUE
-تميم,@BanuTamim,group,TRUE
-أولاد,@descendents,group,TRUE
-ولد,@descendents,group,TRUE
-العداوة,@enemies,group,TRUE
-الأعداء,@enemies,group,TRUE
-عداوت,@enemies,group,TRUE
-المشركين,@polytheists,group,TRUE
-المشركون,@polytheists,group,TRUE
-المهاجرين,@Immigrants,group,TRUE
-المهاجرون,@Immigrants,group,TRUE
-الأنصار,@Helpers,group,TRUE
-منافقي,@Hypocrites,group,TRUE
-أولادها,@descendants,group,TRUE
-أولاده,@descendents,group,TRUE
-ولدا,@descendents,group,TRUE
-أمهم,@origins,group,TRUE
-أمهاتهم,@origins,group,TRUE
-للمهاجرين,@Immigrants,group,TRUE
-المستهزءون,@Mockers,group,TRUE
-المستهزءين,@Mockers,group,TRUE
-المنافقين ,@Hypocrites,group,TRUE
-المنافقون ,@Hypocrites,group,TRUE
-العدوة,@enemies,group,TRUE
-البدريين,@WitnessesBadr,group,TRUE
-مهاجرة,@Immigrants,group,TRUE
-مهاجرات,@Immigrants,group,TRUE
-شهداء,@martyrs,group,TRUE
-ولدته,@Children,group,TRUE
-ولده,@descendents,group,TRUE
-نسابة الفرس,@PersianGenealogists,group,TRUE
-أهل الأنساب,@Genealogists,group,TRUE
-تجار,@Merchants,group,TRUE
-العرب,@theArabs,group,TRUE
-النصرانية,@Christianity,group,TRUE
-حمير,@Himyar,group,TRUE
-الفرس,@thePersians,group,TRUE
-الأحباش,@theAbyssinians,group,TRUE
-الكهان,@Soothsayers,group,TRUE
-كاهن,@Soothsayers,group,TRUE
-يهود,@Jews,group,TRUE
-الرهبان,@Monks,group,TRUE
-النصارى,@Christians,group,TRUE
-الصحابة,@Companions,group,TRUE
-أصحاب رسول الله,@Companions,group,TRUE
-مسلمين,@Muslims,group,TRUE
-الشهداء,@martyrs,group,TRUE
-الأحبار,@Rabbis,group,TRUE
-اليهود,@Jews,group,TRUE
-اليهودي,@Jews,group,TRUE
-أصحابه,@Companions,group,TRUE
-المسلمين,@Muslims,group,TRUE
-الكفار,@unbeliever,group,TRUE
-المؤمنين,@Believers,group,TRUE
-المؤمنين,@Believers,group,TRUE
-الحبشة,@theAbyssinians,group,TRUE
-أحبار,@Rabbis,group,TRUE
-المؤمنين,@Believers,group,TRUE
-المؤمنون,@Believers,group,TRUE
-المسلمين,@Muslims,group,TRUE
-المسلمون,@Muslims,group,TRUE
-مسلمون,@Muslims,group,TRUE
-للمشركين,@polytheists,group,TRUE
-للمشركون,@polytheists,group,TRUE
-بني,@descendentsTribe,group,TRUE
-القبائل,@Tribe,group,TRUE
-قبائل,@Tribe,group,TRUE
-بنو,@descendentsTribe,group,TRUE
-الروم,@Byzantines,group,TRUE
-قومه,@TribePeople,group,TRUE
-قوم,@TribePeople,group,TRUE
-المجوس,@MagiansZorastrians,group,TRUE
-دين المجوسية,@MagiansZorastrians,group,TRUE
-الأنبياء,@Prophets,group,TRUE
-الجن,@Jinn,group,TRUE
-الملوك,@kings,group,TRUE
-أهل الكتاب,@PeopleoftheBook,group,TRUE
-الصابئين,@Sabians,group,TRUE
-الحواريون,@DisciplesofJesus,group,TRUE
-فرعون,@Pharoahs,group,TRUE
-الفراعنة,@Pharoahs,group,TRUE
-فرعونا,@Pharoahs,group,TRUE
-لفرعون,@Pharoahs,group,TRUE
-ملوك فارس,@KingsPersian,group,TRUE
-ملوك العجم,@KingsPersian,group,TRUE
-النبط,@Nabateans,group,TRUE
-علماء الفرس,@PersianScholars,group,TRUE
-القبط,@Copts,group,TRUE
-قبطية,@Copts,group,TRUE
-السودان,@TheBlacks,group,TRUE
-فارس,@Persians,group,TRUE
-الترك,@Turks,group,TRUE
-يأجوج,@Gog,group,TRUE
-ماجوج,@Magog,group,TRUE
-الصقالبة,@Slavs,group,TRUE
-الكنعانيون,@Canaanites,group,TRUE
-الكنعانيين,@Canaanites,group,TRUE
-الخزر,@Khazars,group,TRUE
-النوبة,@Nubians,group,TRUE
-فزان,@Fezzanites,group,TRUE
-البربر,@Berbers,group,TRUE
-الصين,@Chinese,group,TRUE
-اليونانية,@Greeks,group,TRUE
-الأتراك,@Turks,group,TRUE
-الجبارين,@Giants,group,TRUE
-صنهاجة,@Sinhaja,group,TRUE
-كتامة,@Kutama,group,TRUE
-يهوذا,@Judah,group,TRUE
-ملوك الهند,@KingsofIndia,group,TRUE
-لليونانية,@Greeks,group,TRUE
-اليونانيين,@Greeks,group,TRUE
-الأشغانون,@Arsacids,group,TRUE
-ملوك الطوائف,@RegionalPrincesPersian,group,TRUE
-النسب,@genealogy,entity,TRUE
-نسب,@genealogy,entity,TRUE
-عمر,@age,entity,TRUE
-أصل,@origins,entity,TRUE
-أول,@first,entity,TRUE
-شعر,@poetry,entity,TRUE
-الشعر,@poetry,entity,TRUE
-القرآن,@Quran,object,TRUE
-أصنام,@Idols,object,TRUE
-صنم,@Idols,object,TRUE
-هبل,@HubalIdol,object,TRUE
-اللات,@AlatGod,entity,TRUE
-مناة,@ManatGod,entity,TRUE
-الإنجيل,@Gospels,object,TRUE
-الصلاة,@Prayer,entity,TRUE
-تفسير ابن هشام,@TafsirIbnHisham,entity,TRUE
-القبلة,@Qibla,entity,TRUE
-عدد,@Quantity,entity,TRUE
-عدة,@Quantity,entity,TRUE
-تاريخ,@Dating,entity,TRUE
-وقتها,@Dating,entity,TRUE
-الأصنام,@idols,object,TRUE
-أصنامها,@idols,object,TRUE
-رثاء,@PoetryLament,entity,TRUE
-نسبه,@genealogy,entity,TRUE
-تفسير,@Tafsir,entity,TRUE
-شعره,@Poetry,entity,TRUE
-خطبه,@Khutba,entity,TRUE
-خطب,@Khutba,entity,TRUE
-يومها,@Dating,entity,TRUE
-عددهم,@Quantity,entity,TRUE
-تاريخها,@Dating,entity,TRUE
-تحريض,@provocation,entity,TRUE
-أموال,@spoils,object,TRUE
-الفيء,@spoils,object,TRUE
-القول,@sayings,entity,TRUE
-الدلالة,@Proofs,entity,TRUE
-المكروه,@Evil,entity,TRUE
-النور,@Light,entity,TRUE
-نورا,@Light,entity,TRUE
-الآية,@Aya,entity,TRUE
-كما قال ربنا,@QuranQuote,entity,TRUE
-كما قال عز وجل,@QuranQuote,entity,TRUE
-قول الله,@QuranQuote,entity,TRUE
-الظلمة,@Darkness,entity,TRUE
-الريح,@Wind,entity,TRUE
-الملائكة,@Angels,entity,TRUE
-عمر  آدم,@AdamsAge,entity,TRUE
-الكفر,@Unbelief,entity,TRUE
-كفر,@Unbelief,entity,TRUE
-الطيب,@Perfume,object,TRUE
-خبز,@Bread,object,TRUE
-الحديد,@Iron,object,TRUE
-الحرث,@plough,object,TRUE
-السندان,@Anvils,object,TRUE
-الكلبتان,@Tongs,object,TRUE
-الميقعة,@Mallets,object,TRUE
-المطرقة,@Hammers,object,TRUE
-الحجر الأسود,@BlackStone,object,TRUE
-التوراة,@Torah,object,TRUE
-السفينة,@Ark,object,TRUE
-كلمات,@Commandments,object,TRUE
-الألواح,@Tablets10Commandments,object,TRUE
-التابوت,@ArkoftheCovenant,object,TRUE
-الشمس,@Sun,object,TRUE
-القمر,@Moon,object,TRUE
-التربة,@Soil,object,TRUE
-الجبال,@Mountains,object,TRUE
-الشجر,@Trees,object,TRUE
-شجرها,@Trees,object,TRUE
-الدواب,@AnimalsBeastsofBurden,object,TRUE
-الماء,@Water,object,TRUE
-القلم,@Pen,object,TRUE
-سحابا,@Clouds,object,TRUE
-عرش,@Throne,object,TRUE
-عرشه,@Throne,object,TRUE
-العرش,@Throne,object,TRUE
-البحار,@Oceans,object,TRUE
-أقوات,@Food,object,TRUE
-النجوم,@Stars,object,TRUE
-الأنهار,@Rivers,object,TRUE
-الحية,@Serpent,object,TRUE
-الثمار,@Fruit,object,TRUE
-الحنطة,@Wheat,object,TRUE
-ورق التين,@FigLeaf,object,TRUE
-ثور,@Ox,object,TRUE
-البهائم,@AnimalsDumb,object,TRUE
-الوحش,@AnimalsWild,object,TRUE
-الطير,@Birds,object,TRUE
-الأراك,@ThornBush,object,TRUE
-الهدهد,@Hoopoe,object,TRUE
-الفيل,@theElephant,event,TRUE
-الهجرة الأولى,@MigrationAbyssinia,event,TRUE
-الحج,@Hajj,event,TRUE
-الحمس,@Hums,event,TRUE
-الصحيفة,@Boycott,event,TRUE
-المعراج,@MiCraj,event,TRUE
-الأذان,@CallToPrayer,event,TRUE
-بدر الكبرى,@BadrBattle,event,TRUE
-يوم بدر,@BadrBattle,event,TRUE
-غزوة أحد,@UhudBattle,event,TRUE
-يوم أحد,@UhudBattle,event,TRUE
-غزوة الخندق,@TrenchBattle,event,TRUE
-يوم الخندق,@TrenchBattle,event,TRUE
-الحديبية,@HudaybiyyaTreaty,event,TRUE
-يوم خيبر,@KhaybarExpedition,event,TRUE
-المسير إلى خيبر,@KhaybarExpedition,event,TRUE
-غزوة مؤتة,@MutaRaid,event,TRUE
-فتح مكة,@MeccaSiege,event,TRUE
-غزوة الطائف,@TaifRaid,event,TRUE
-يوم الطائف,@TaifRaid,event,TRUE
-غزوة تبوك,@TabukRaid,event,TRUE
-سقيفة,@Saqifa,event,TRUE
-للصحيفة,@Boycott,event,TRUE
-يوم بني قريظة,@BanuQurayzaRaid,event,TRUE
-أمر الخندق,@TrenchBattle,event,TRUE
-أمر خيبر,@KhaybarExpedition,event,TRUE
-فتح خيبر,@KhaybarExpedition,event,TRUE
-عمرة القضاء,@FulfilledPilgrimage,event,TRUE
-يوم الفتح,@MeccaSiege,event,TRUE
-غزوة حنين,@HunaynBattle,event,TRUE
-يوم حنين,@HunaynBattle,event,TRUE
-حنين,@HunaynBattle,event,TRUE
-سنة الوفود,@YearofDeputations,event,TRUE
-حجة الوداع,@FarewellPilgrimage,event,TRUE
-السقيفة,@Saqifa,event,TRUE
-خلق,@Creation,event,TRUE
-خلقهما,@Creation,event,TRUE
-الخلق,@Creation,event,TRUE
-يوم القيامة,@DayResurrection,event,TRUE
-قيام الساعة,@DayResurrection,event,TRUE
-أول ما خلق,@FirstCreation,event,TRUE
-خلق يوما,@CreationDays,event,TRUE
-خلق الأيام,@CreationDays,event,TRUE
-ابتداء الخلق,@BeginningCreation,event,TRUE
-علم الله عز وجل آدم الأسماء,@GodTeachesAdamNames,event,TRUE
-علم الله تعالى آدم الأسماء,@GodTeachesAdamNames,event,TRUE
-امتحان الله تعالى أبانا آدم,@GodTestsAdam,event,TRUE
-أهبط آدم,@FallAdam,event,TRUE
-أهبط إلى الأرض,@FallAdam,event,TRUE
-أخرج آدم من الجنة,@FallAdam,event,TRUE
-خرج من الجنة,@FallAdam,event,TRUE
-أهبط من الجنة,@FallAdam,event,TRUE
-الطوفان,@TheFlood,event,TRUE
-ذبح إسحاق,@SacrificeofIsaac,event,TRUE
-بذبح ابنه,@SacrificeofIsaac,event,TRUE
-أمر بذبحه,@SacrificeofIsaac,event,TRUE
-حفر زمزم,@DiggingZamzam,event,TRUE
-امتحن الله,@GodTest,event,TRUE
-كلم من الشجرة,@BurningBush,event,TRUE
-بناء المسجد,@BuildingtheTemple,event,TRUE
-خرب المدينة والهيكل,@DestructionoftheTempleJerusalem,event,TRUE
-تخريبه بيت المقدس,@DestructionoftheTempleJerusalem,event,TRUE
-هدم البيت,@DestructionoftheTempleJerusalem,event,TRUE
-خرب بيت المقدس,@DestructionoftheTempleJerusalem,event,TRUE
-إخراب المسجد,@DestructionoftheTempleJerusalem,event,TRUE
-سبى بني إسرائيل,@CaptivityofChildrenofIsrael,event,TRUE
-سبايا بني إسرائيل,@CaptivityofChildrenofIsrael,event,TRUE
-مقتل,@killed,event,TRUE
-قتل,@killed,event,TRUE
-استشهد,@martyred,event,TRUE
-استشهاد,@martyred,event,TRUE
-موت,@death,event,TRUE
-وفاة,@death,event,TRUE
-ابتداء,@beginning,event,TRUE
-المستولي,@occupation,event,TRUE
-مستولي,@occupation,event,TRUE
-استيلاء,@occupation,event,TRUE
-افتتاح,@occupation,event,TRUE
-هجرة,@migration,event,TRUE
-الهجرة,@migration,event,TRUE
-هجرته,@migration,event,TRUE
-غزو,@raid,event,TRUE
-غزوة,@raid,event,TRUE
-الغزوات,@raid,event,TRUE
-سرية,@expedition,event,TRUE
-قتال,@fighting,event,TRUE
-القتال,@fighting,event,TRUE
-دفن,@Burial,event,TRUE
-ولادة,@Birth,event,TRUE
-تزويج,@Marriage,event,TRUE
-زواج,@Marriage,event,TRUE
-إسلام,@ConversiontoIslam,event,TRUE
-أسلم,@ConversiontoIslam,event,TRUE
-تنزيل القرآن,@RevelationQuran,event,TRUE
-ما أنزل الله,@RevelationQuran,event,TRUE
-ما أنزله الله,@RevelationQuran,event,TRUE
-ما نزل فيه,@RevelationQuran,event,TRUE
-نزول سورة,@RevelationQuran,event,TRUE
-ما نزل فيهم,@RevelationQuran,event,TRUE
-نزول آيات,@RevelationQuran,event,TRUE
-نزول هذه الآية,@RevelationQuran,event,TRUE
-ما نزل في,@RevelationQuran,event,TRUE
-ما نزل فيمن,@RevelationQuran,event,TRUE
-ما نزل من,@RevelationQuran,event,TRUE
-نزول القرآن,@RevelationQuran,event,TRUE
-نزول براءة,@RevelationQuran,event,TRUE
-من شهد,@witnessing,event,TRUE
-أسرى,@TakenPrisoner,event,TRUE
-الهدنة,@Truce,event,TRUE
-الصلح,@Truce,event,TRUE
-أزواج,@Marriage,event,TRUE
-شكوى,@Illness,event,TRUE
-تمريض,@Illness,event,TRUE
-المرض,@Illness,event,TRUE
-قتله,@killed,event,TRUE
-موته,@death,event,TRUE
-قبره,@Burial,event,TRUE
-ميلاد,@Birth,event,TRUE
-نكاح,@Marriage,event,TRUE
-تزوج,@Marriage,event,TRUE
-تزوجه,@Marriage,event,TRUE
-زواجه,@Marriage,event,TRUE
-إسلامه,@ConversiontoIslam,event,TRUE
-ما أنزله تعالى,@RevelationQuran,event,TRUE
-نزول آية,@RevelationQuran,event,TRUE
-مهاجرة,@migration,event,TRUE
-إلى الإسلام,@ConversiontoIslam,event,TRUE
-عهدا,@Agreement,event,TRUE
-عهد,@Agreement,event,TRUE
-العهد,@Agreement,event,TRUE
-من شهدها,@witnessing,event,TRUE
-مرض,@Illness,event,TRUE
-السرية,@expedition,event,TRUE
-سريته,@expedition,event,TRUE
-شهود,@witnessing,event,TRUE
-من حضر,@attending,event,TRUE
-قتلى,@killed,event,TRUE
-أمر,@AffairStory,event,TRUE
-خبر,@AffairStory,event,TRUE
-قصة,@AffairStory,event,TRUE
-قتله,@killed,event,TRUE
-الموت,@death,event,TRUE
-مقتله,@killed,event,TRUE
-هاجر,@migration,event,TRUE
-للقتال,@fighting,event,TRUE
-للصلح,@Truce,event,TRUE
-من شهدوا,@witnessing,event,TRUE
-بيعة,@homage,event,TRUE
-البيعة,@homage,event,TRUE
-شأن,@AffairStory,event,TRUE
-استشهاده,@martyred,event,TRUE
-مصالحة,@Truce,event,TRUE
-يوم الفتح,@MeccaSiege,event,TRUE
-حج,@Pilgrimage,event,TRUE
-شأن,@AffairStory,event,TRUE
-إسلامها,@ConversiontoIslam,event,TRUE
-ما نزل بسبب,@RevelationQuran,event,TRUE
-المغازي,@raid,event,TRUE
-إسلامهم,@ConversiontoIslam,event,TRUE
-وفد,@deputation,event,TRUE
-الوفد,@deputation,event,TRUE
-وفدهم,@deputation,event,TRUE
-الغزوة,@raid,event,TRUE
-غزوات,@raid,event,TRUE
-الزواج,@Marriage,event,TRUE
-السرية,@expedition,event,TRUE
-الشكوى,@Illness,event,TRUE
-بدء,@beginning,event,TRUE
-تمريضه,@Illness,event,TRUE
-دفنه,@Burial,event,TRUE
-رمضان,@RamadanFast,event,TRUE
-المغرب,@Sunset,event,TRUE
-الأحداث,@Events,event,TRUE
-وفاه,@Death,event,TRUE
-أول من,@FirstToDo,event,TRUE
-صام,@Fasting,event,TRUE
-غزاة,@Raid,event,TRUE
-الطواف,@CirculambulatingKaCba,event,TRUE
-ازواج,@Marriage,event,TRUE
-غزا,@Raid,event,TRUE
-مغازي,@Raid,event,TRUE
-غزوته,@Raid,event,TRUE
-غزا,@Raid,event,TRUE
-اليمن,@Yemen,place,TRUE
-العراق,@Iraq,place,TRUE
-يثرب,@Medina,place,TRUE
-المدينة,@Medina,place,TRUE
-البيت,@KaCba,place,TRUE
-الكعبة,@KaCba,place,TRUE
-الحبشة,@Abyssinia,place,TRUE
-مكة,@Mecca,place,TRUE
-الشام,@GreaterSyria,place,TRUE
-عمان,@Oman,place,TRUE
-زمزم,@Zamzam,place,TRUE
-الموصل,@Mosul,place,TRUE
-نصيبين,@Nisibis,place,TRUE
-عمورية,@Amorium,place,TRUE
-العقبة,@Caqaba,place,TRUE
-مسجد قباء,@QubaMosque,place,TRUE
-قباء,@QubaMosque,place,TRUE
-نجران,@Najran,place,TRUE
-ودان,@Waddan,place,TRUE
-بواط,@Buwat,place,TRUE
-العشيرة,@Ushayra,place,TRUE
-صفوان,@Safwan,place,TRUE
-بدر,@Badr,place,TRUE
-الكدر,@Kudr,place,TRUE
-القردة,@Qarada,place,TRUE
- خيبر,@Khaybar,place,TRUE
-مؤتة,@Muta,place,TRUE
-الطائف,@Taif,place,TRUE
-تبوك,@Tabuk,place,TRUE
-فلسطين,@Palestine,place,TRUE
-سيف البحر,@Coast,place,TRUE
-مصر,@Egypt,place,TRUE
-الحضر,@Hatra,place,TRUE
-للكعبة,@KaCba,place,TRUE
-مسجد المدينة,@QubaMosque,place,TRUE
-مسجد,@Mosque,place,TRUE
-بدرا,@Badr,place,TRUE
-السماوات,@TheHeavens,place,TRUE
-السماء,@TheHeavens,place,TRUE
-الأرض,@TheEarth,place,TRUE
-المدائن,@Cities,place,TRUE
-المسجد الحرام,@KaCba,place,TRUE
-المسجد الأقصى,@AqsaMosque,place,TRUE
-الجنة,@HeavenParadise,place,TRUE
-الهند,@India,place,TRUE
-سرنديب,@Ceylon,place,TRUE
-بيت المقدس,@Jerusalem,place,TRUE
-بابل,@Babylon,place,TRUE
-سواد,@Sawad,place,TRUE
-الكوفة,@Kufa,place,TRUE
-السوس,@Susa,place,TRUE
-النيل,@Nile,place,TRUE
-الفرات,@Euphrates,place,TRUE
-دجلة,@Tigris,place,TRUE
-سيحان,@Sayhan,place,TRUE
-جيحان,@Jayhan,place,TRUE
-فيشون,@Fayshan,place,TRUE
-السند,@Sind,place,TRUE
-الصراة,@Sarat,place,TRUE
-الحجاز,@Hijaz,place,TRUE
-البحرين,@Bahrayn,place,TRUE
-تيماء,@Tayma,place,TRUE
-نجد,@Najd,place,TRUE
-اليمامة,@Yamama,place,TRUE
-حضرموت,@Hadramawt,place,TRUE
-صنعاء,@SanaCa,place,TRUE
-السوس,@Sus,place,TRUE
-الأهواز,@Ahwaz,place,TRUE
-حران,@Harran,place,TRUE
-السبع,@Beersheba,place,TRUE
-عرفات,@MountArafat,place,TRUE
-الصرح,@TowerofBabel,place,TRUE
-أرض الروم,@Byzantium,place,TRUE
-الأردن,@Jordan,place,TRUE
-سدوم,@Sodom,place,TRUE
-حبرون,@Hebron,place,TRUE
-خراسان,@Khurasan,place,TRUE
-لليمن,@Yemen,place,TRUE
-الحيرة,@Hira,place,TRUE
-الإسكندرية,@Alexandria,place,TRUE
-الري,@Rayy,place,TRUE
-الأنبار,@Anbar,place,TRUE
-أذربيجان,@Azerbaijan,place,TRUE
-البصرة,@Basra,place,TRUE
-طور سيناء,@MountSinai,place,TRUE
-أريحا,@Jericho,place,TRUE
-طبرستان,@Tabaristan,place,TRUE
-إفريقية,@Ifriqiya,place,TRUE
-البيت,@Temple,place,TRUE
-بلخ,@Ballkh,place,TRUE
-سجستان,@Sijistan,place,TRUE
-زابلستان,@Zabulistan,place,TRUE
-خوزستان,@Khuzistan,place,TRUE
-كرمان,@Kirman,place,TRUE
-ترشيش,@Tarshish,place,TRUE
-إيلياء,@Jerusalem,place,TRUE
-نينوى,@Nineva,place,TRUE
-الهيكل,@Temple,place,TRUE
-دمشق,@Damascus,place,TRUE
-التبت,@Tibet,place,TRUE
-أصبهان,@Isbahan,place,TRUE
-أنطاكية,@Antioch,place,TRUE
-القسطنطينية,@Constantinople,place,TRUE
-بيت لحم,@Bethlehem,place,TRUE
-صفر,@SafarMonth,time,TRUE
-سنة ثلاث,@Year3,time,TRUE
-سنة أربع,@Year4,time,TRUE
-شعبان,@ShaCbanMonth,time,TRUE
-ربيع الأول,@RabiCAwwalMonth,time,TRUE
-سنة خمس,@Year5,time,TRUE
-شوال,@ShawwalMonth,time,TRUE
-سنة ست,@Year6,time,TRUE
-المحرم ,@MuharramMonth,time,TRUE
-سنة سبع,@Year7,time,TRUE
-ذي القعدة,@DhuQaCdaMonth,time,TRUE
-ذو القعدة,@DhuQaCdaMonth,time,TRUE
-سنة ثمان,@Year8,time,TRUE
-جمادى الأولى,@JumadaAwwalMonth,time,TRUE
-رمضان,@RamadanMonth,time,TRUE
-رجب,@RajabMonth,time,TRUE
-سنة تسع,@Year9,time,TRUE
-ربيع الآخر,@RabiCAkharlMonth,time,TRUE
-ربيع الثاني,@RabiCAkharlMonth,time,TRUE
-جمادى الآخرة,@JumadaAkharMonth,time,TRUE
-جمادى الثانية,@JumadaAkharMonth,time,TRUE
-ذي الحجة,@DhuHijjaMonth,time,TRUE
-ذو الحجة,@DhuHijjaMonth,time,TRUE
-سنة ثماني,@Year8,time,TRUE
-الزمان,@time,time,TRUE
-الليل,@Night,time,TRUE
-النهار,@Day,time,TRUE
-يوم الأحد,@Sunday,time,TRUE
-يوم الاثنين,@Monday,time,TRUE
-يوم الثلاثاء,@Tuesday,time,TRUE
-يوم الأربعاء,@Wednesday,time,TRUE
-يوم الخميس,@Thursday,time,TRUE
-يوم الجمعة,@Friday,time,TRUE
-يوم السبت,@Saturday,time,TRUE
-الجاهلية,@Jahiliyya,time,TRUE
-نوروز,@Nawruz,time,TRUE
-يوم عاشوراء,@Cashura,time,TRUE
-عام الفيل,@YearoftheElephant,time,TRUE
-التاريخ,@Dating,time,TRUE
+entity,tag,category,Tagged,tag_status
+آدم,@AdamProphet,person,TRUE,FALSE
+إسماعيل,@IsmaCilProphet,person,TRUE,FALSE
+إبراهيم,@AbrahamProphet,person,TRUE,FALSE
+موسى,@MosesProphet,person,TRUE,FALSE
+عيسى,@JesusProphet,person,TRUE,FALSE
+نوح,@NoahProphet,person,TRUE,FALSE
+حواء,@Eve,person,TRUE,FALSE
+ابراهيم,@AbrahamProphet,person,TRUE,FALSE
+قابيل بن آدم,@Cain,person,TRUE,FALSE
+هابيل,@Abel,person,TRUE,FALSE
+شيثا,@Seth,person,TRUE,FALSE
+شيث,@Seth,person,TRUE,FALSE
+داود,@DavidProphet,person,TRUE,FALSE
+خنوخ,@Enoch,person,TRUE,FALSE
+يرد,@Jared,person,TRUE,FALSE
+يارد,@Jared,person,TRUE,FALSE
+لمك,@Lamech,person,TRUE,FALSE
+سام,@Shem,person,TRUE,FALSE
+لسام,@Shem,person,TRUE,FALSE
+حام,@Ham,person,TRUE,FALSE
+لجام,@Ham,person,TRUE,FALSE
+يافث,@Japheth,person,TRUE,FALSE
+جم الشيذ,@Jemshed,person,TRUE,FALSE
+جم,@Jemshed,person,TRUE,FALSE
+يوسف,@Joseph,person,TRUE,FALSE
+سليمان,@Solomon,person,TRUE,FALSE
+هود,@HudProphet,person,TRUE,FALSE
+صالح,@SalihProphet,person,TRUE,FALSE
+لوط,@LotProphet,person,TRUE,FALSE
+لوطا,@LotProphet,person,TRUE,FALSE
+سارة,@Sarah,person,TRUE,FALSE
+اسماعيل,@IshmaCilProphet,person,TRUE,FALSE
+إسحاق,@IsaacProphet,person,TRUE,FALSE
+يعقوب,@JacobProphet,person,TRUE,FALSE
+امرأة لوط,@WifeofLot,person,TRUE,FALSE
+شعيب,@ShuCaybProphet,person,TRUE,FALSE
+يوسف,@Joseph,person,TRUE,FALSE
+بنيامين,@Benjamin,person,TRUE,FALSE
+أيوب,@Job,person,TRUE,FALSE
+الخضر,@Khidr,person,TRUE,FALSE
+هارون,@Aaron,person,TRUE,FALSE
+يوشع,@JoshuaProphet,person,TRUE,FALSE
+كالب,@CalebIbnJepunneh,person,TRUE,FALSE
+حزقيل,@EzekielProphet,person,TRUE,FALSE
+هزقيل,@EzekielProphet,person,TRUE,FALSE
+الياس,@ElijahProphet,person,TRUE,FALSE
+إلياس بن ياسين,@ElijahProphet,person,TRUE,FALSE
+إلياس,@ElijahProphet,person,TRUE,FALSE
+اليسع,@Elisha,person,TRUE,FALSE
+شمويل,@SamuelProphet,person,TRUE,FALSE
+أشمويل,@SamuelProphet,person,TRUE,FALSE
+طالوت,@Saul,person,TRUE,FALSE
+زكرياء,@Zechariah,person,TRUE,FALSE
+يحيى,@JohntheBaptist,person,TRUE,FALSE
+شعيا,@Isaiah,person,TRUE,FALSE
+إرميا,@JeremiahProphet,person,TRUE,FALSE
+دانيال,@DanielProphet,person,TRUE,FALSE
+يوسف,@Joseph,person,TRUE,FALSE
+ابن هشام,@IbnHishamAuthor,person,TRUE,FALSE
+معد,@MaCd,person,TRUE,FALSE
+عدنان,@Cadnan,person,TRUE,FALSE
+عك,@Cak,person,TRUE,FALSE
+قضاعة,@QudaCa,person,TRUE,FALSE
+قنص بن معد,@QunusIbnMaCd,person,TRUE,FALSE
+النعمان بن المنذر,@NuCmanIbnMundhir,person,TRUE,FALSE
+النعمان,@NuCmanIbnMundhir,person,TRUE,FALSE
+لخم بن عدي,@LakhmIbnCadi,person,TRUE,FALSE
+عمرو بن عامر,@CamrIbnCamir,person,TRUE,FALSE
+ربيعة بن نصر,@RabiCIbnNasr,person,TRUE,FALSE
+سطيح,@SatihSoothsayer,person,TRUE,FALSE
+أبرهة,@Abraha,person,TRUE,FALSE
+شق,@ShiqqSoothsayer,person,TRUE,FALSE
+بجيلة,@Bajila,person,TRUE,FALSE
+تبان,@Tiban,person,TRUE,FALSE
+عمرو بن طلة,@CAmrIbnTalla,person,TRUE,FALSE
+حسان بن تبان,@HassanIbnTiban,person,TRUE,FALSE
+عمرو,@CAmrIbnTiban,person,TRUE,FALSE
+ذي نواس,@DhuNuwas,person,TRUE,FALSE
+ذي شناتر,@DhuShanatir,person,TRUE,FALSE
+عبد الله بن الثامر,@CabdallahIbnalThamir,person,TRUE,FALSE
+ابن الثامر,@CabdallahIbnalThamir,person,TRUE,FALSE
+قيصر,@EmperorRome,person,TRUE,FALSE
+أرياط,@Aryat,person,TRUE,FALSE
+النجاشي,@Negus,person,TRUE,FALSE
+نفيل,@NufaylIbnHabib,person,TRUE,FALSE
+عبد المطلب,@AbdalMuttalib,person,TRUE,FALSE
+حناطة,@Hunata,person,TRUE,FALSE
+ذو نفر,@DhuNafr,person,TRUE,FALSE
+أنيس,@Unays,person,TRUE,FALSE
+خويلد,@KhuwaylidIbnWathila,person,TRUE,FALSE
+الأسود بن مقصود,@al-AswadIbnMafsud,person,TRUE,FALSE
+سيف بن ذي يزن,@SayfIbnDhuYazan,person,TRUE,FALSE
+ابن ذي يزن,@SayfIbnDhuYazan,person,TRUE,FALSE
+وهرز,@Wahriz,person,TRUE,FALSE
+كسرى,@ChosroesShah,person,TRUE,FALSE
+نزار بن معد,@NizarIbnMaCd,person,TRUE,FALSE
+مضر,@Mudar,person,TRUE,FALSE
+أنمار,@Anmar,person,TRUE,FALSE
+إلياس,@Ilyas,person,TRUE,FALSE
+عمرو بن لحي,@CamrIbnLuhayy,person,TRUE,FALSE
+عبد مناف,@AbdManaf,person,TRUE,FALSE
+هاشم,@Hashim,person,TRUE,FALSE
+عوف بن لؤي,@CaufIbnLuay,person,TRUE,FALSE
+قصي بن كلاب,@QusayyIbnKilab,person,TRUE,FALSE
+عبد شمس,@AbdShams,person,TRUE,FALSE
+عبد الله بن عبد المطلب,@AbdAllahIbnMutallib,person,TRUE,FALSE
+حليمة,@Halima,person,TRUE,FALSE
+آمنة,@AminaMotherProphet,person,TRUE,FALSE
+العباس,@CabbasIbnCabdMutallib,person,TRUE,FALSE
+أبي طالب,@AbuTalib,person,TRUE,FALSE
+أبو طالب,@AbuTalib,person,TRUE,FALSE
+بحيرى,@BahiraMonk,person,TRUE,FALSE
+خديجة,@KhadijaWife,person,TRUE,FALSE
+جبريل,@GabrielAngel,person,TRUE,FALSE
+علي بن أبي طالب,@CaliIbnAbiTalib,person,TRUE,FALSE
+علي,@CaliIbnAbiTalib,person,TRUE,FALSE
+أبي بكر,@AbuBakr,person,TRUE,FALSE
+أبو بكر,@AbuBakr,person,TRUE,FALSE
+عثمان,@CuthmanIbnAffan,person,TRUE,FALSE
+الزبير ,@ZubayrIbnAwwam,person,TRUE,FALSE
+طلحة,@TalhaIbnUbayullah,person,TRUE,FALSE
+الوليد بن المغيرة,@WalidIbnMughira,person,TRUE,FALSE
+حمزة,@HamzaIbnCabdMutallib,person,TRUE,FALSE
+أبي جهل,@AbuJahl,person,TRUE,FALSE
+أبو جهل,@AbuJahl,person,TRUE,FALSE
+عتبة بن ربيعة,@CutbaIbnRabiCa,person,TRUE,FALSE
+أبو سفيان,@AbuSufyan,person,TRUE,FALSE
+أبي سفيان,@AbuSufyan,person,TRUE,FALSE
+الأخنس,@AkhnasIbnShariq,person,TRUE,FALSE
+بلال,@Bilal,person,TRUE,FALSE
+ابن عباس,@CabdAllahIbnCabbas,person,TRUE,FALSE
+عمر بن الخطاب,@CumarIbnKhattab,person,TRUE,FALSE
+عمر,@CumarIbnKhattab,person,TRUE,FALSE
+أسعد بن زرارة,@AsaCdIbnZurara,person,TRUE,FALSE
+ذي القرنين,@DhuQarnayn,person,TRUE,FALSE
+ذو القرنين,@DhuQarnayn,person,TRUE,FALSE
+ذا القرنين,@DhuQarnayn,person,TRUE,FALSE
+زكريا,@ZakariaProphet,person,TRUE,FALSE
+مريم,@Maryam,person,TRUE,FALSE
+عامر,@Camir,person,TRUE,FALSE
+عائشة,@CaishaProphetWife,person,TRUE,FALSE
+عبيدة بن الحارث,@UbaydaIbnHarith,person,TRUE,FALSE
+أبي سفيان,@AbuSufyan,person,TRUE,FALSE
+أبو سفيان,@AbuSufyan,person,TRUE,FALSE
+سهيل بن عمرو,@SuhaylIbnCamr,person,TRUE,FALSE
+أبي العاص بن الربيع,@AbuCasIbnRabiCa,person,TRUE,FALSE
+أبو العاص بن الربيع,@AbuCasIbnRabiCa,person,TRUE,FALSE
+أبي العاص,@AbuCasIbnRabiCa,person,TRUE,FALSE
+أبو العاص,@AbuCasIbnRabiCa,person,TRUE,FALSE
+زينب,@ZaynabBintMuhammad,person,TRUE,FALSE
+زيد بن حارثة,@ZaydIbnHaritha,person,TRUE,FALSE
+هند,@Hind,person,TRUE,FALSE
+عمرو بن العاص ,@CamrIbnCas,person,TRUE,FALSE
+خالد بن الوليد,@KhalidIbnWalid,person,TRUE,FALSE
+أبي جندل,@AbuJandal,person,TRUE,FALSE
+أبو جندل,@AbuJandal,person,TRUE,FALSE
+عبد الله بن أمية,@AbdullahIbnUmayya,person,TRUE,FALSE
+مسيلمة,@Musaylima,person,TRUE,FALSE
+هاجر,@Hajar,person,TRUE,FALSE
+خندف,@Khindif,person,TRUE,FALSE
+قصي بن كلاب,@QusayyIbnKilab,person,TRUE,FALSE
+قصي,@QusayyIbnKilab,person,TRUE,FALSE
+عبد الله,@CabdAllahIbnMutallib,person,TRUE,FALSE
+عبد الله بن عبد المطلب,@CabdAllahIbnMutallib,person,TRUE,FALSE
+أبا طالب,@AbuTalib,person,TRUE,FALSE
+أبا بكر,@AbuBakr,person,TRUE,FALSE
+عتبة,@CutbaIbnRabiCa,person,TRUE,FALSE
+أبا جهل,@AbuJahl,person,TRUE,FALSE
+ملوك الروم,@EmperorRome,person,TRUE,FALSE
+للعباس,@CabbasIbnCabdMutallib,person,TRUE,FALSE
+عمرو,@CamrIbnCas,person,TRUE,FALSE
+خالد,@KhalidIbnWalid,person,TRUE,FALSE
+سودة,@SawdaWife,person,TRUE,FALSE
+زينب بنت جحش,@ZaynadBintJahshWife,person,TRUE,FALSE
+أم سلمة,@UmSalamaWife,person,TRUE,FALSE
+حفصة,@HafsaWife,person,TRUE,FALSE
+أم حبيبة,@UmHabibaWife,person,TRUE,FALSE
+جويرية,@JuwayriyaWife,person,TRUE,FALSE
+صفية,@SafiyyaWife,person,TRUE,FALSE
+ميمونة,@MaymunaWife,person,TRUE,FALSE
+زينب بنت خزيمة,@ZaynadBintKhuzaymaWife,person,TRUE,FALSE
+جيومرت,@Jayumart,person,TRUE,FALSE
+يزدجرد بن شهريار,@YazdjardIbnShahriyar,person,TRUE,FALSE
+عبد الحارث,@AbdHarith,person,TRUE,FALSE
+أوشهنج,@Oshahanj,person,TRUE,FALSE
+مهلائيل,@Mahalel,person,TRUE,FALSE
+بيوراسب,@BewarasbDahhak,person,TRUE,FALSE
+الازدهاق,@BewarasbDahhak,person,TRUE,FALSE
+الضحاك,@BewarasbDahhak,person,TRUE,FALSE
+طهمورث,@Tahmurath,person,TRUE,FALSE
+متوشلخ,@Methuselah,person,TRUE,FALSE
+الإسكندر,@Alexander,person,TRUE,FALSE
+نمرود,@Nimrod,person,TRUE,FALSE
+أفريدون,@Afaridhun,person,TRUE,FALSE
+معاوية بن بكر,@MuaCwiyaIbnBakr,person,TRUE,FALSE
+بختنصر,@Nebuchadnezzar,person,TRUE,FALSE
+منوشهر,@Manushihr,person,TRUE,FALSE
+امرؤ القيس,@ImruQays,person,TRUE,FALSE
+قابوس,@QabusPharoah,person,TRUE,FALSE
+السامري,@Samiri,person,TRUE,FALSE
+قارون,@KorahIbnIzharIbnKohath,person,TRUE,FALSE
+زو,@Zaw,person,TRUE,FALSE
+كيقباذ,@Kayqubadh,person,TRUE,FALSE
+جالوت,@Goliath,person,TRUE,FALSE
+بلقيس,@Bilqis,person,TRUE,FALSE
+كيقاوس,@Kayqawus,person,TRUE,FALSE
+فراسياب,@Frasiyat,person,TRUE,FALSE
+كيخسرو,@Kaykhusraw,person,TRUE,FALSE
+أسا بن أبيا,@AsaIbnAbija,person,TRUE,FALSE
+زرح,@Zerah,person,TRUE,FALSE
+سنحاريب,@Sennacherib,person,TRUE,FALSE
+لهراسب,@Luhrasb,person,TRUE,FALSE
+بشتاسب,@Bishtasb,person,TRUE,FALSE
+داريوش,@Darius,person,TRUE,FALSE
+زرادشت,@Zoroaster,person,TRUE,FALSE
+برخيا,@BerechiahProphet,person,TRUE,FALSE
+بهمن,@BahmanIbnIsfandiyar,person,TRUE,FALSE
+أردشير بهمن,@ArdashirBahman,person,TRUE,FALSE
+ساسان,@Sasan,person,TRUE,FALSE
+دارا الأكبر,@Darius,person,TRUE,FALSE
+كيرش,@Cyrus,person,TRUE,FALSE
+دارا الأصغر,@DariusYounger,person,TRUE,FALSE
+قسطنطين,@ConstantineEmperor,person,TRUE,FALSE
+هيردوس,@Herod,person,TRUE,FALSE
+أردشير بن بابك,@ArdashirIbnBabik,person,TRUE,FALSE
+عمرو بن ظرب,@CAmrIbnZarib,person,TRUE,FALSE
+الزباء,@Zabba,person,TRUE,FALSE
+طسم,@Tasm,person,TRUE,FALSE
+جديس,@Jadis,person,TRUE,FALSE
+إبليس,@IblisSatan,person,TRUE,FALSE
+الشياطين,@IblisSatan,person,TRUE,FALSE
+شيطانا,@IblisSatan,person,TRUE,FALSE
+شيطان,@IblisSatan,person,TRUE,FALSE
+جبرئيل,@GabrielAngel,person,TRUE,FALSE
+ميكائيل,@MichaelAngel,person,TRUE,FALSE
+ملك الموت,@AngelofDeath,person,TRUE,FALSE
+خزاعة,@BanuKhuzaCa,group,TRUE,FALSE
+كنانة,@BanuKinana,group,TRUE,FALSE
+قريش,@Quraysh,group,TRUE,FALSE
+بني هاشم,@BanuHashim,group,TRUE,FALSE
+بنو هاشم,@BanuHashim,group,TRUE,FALSE
+بني أمية,@BanuUmayya,group,TRUE,FALSE
+بنو أمية,@BanuUmayya,group,TRUE,FALSE
+بني أسد,@BanuAsad,group,TRUE,FALSE
+بنو أسد,@BanuAsad,group,TRUE,FALSE
+بنو عبد شمس,@BanuCabdShams,group,TRUE,FALSE
+بني عبد شمس,@BanuCabdShams,group,TRUE,FALSE
+بني نوفل,@BanuNaufal,group,TRUE,FALSE
+بنو نوفل,@BanuNaufal,group,TRUE,FALSE
+بني عبد بن قصي,@BanuCabdIbnQusayy,group,TRUE,FALSE
+بنو عبد بن قصي,@BanuCabdIbnQusayy,group,TRUE,FALSE
+بني عبد الدار بن قصي,@BanuCabdDarIbnQusayy,group,TRUE,FALSE
+بنو عبد الدار بن قصي,@BanuCabdDarIbnQusayy,group,TRUE,FALSE
+بني عبد الدار,@BanuCabdDarIbnQusayy,group,TRUE,FALSE
+بنو عبد الدار,@BanuCabdDarIbnQusayy,group,TRUE,FALSE
+بني زهرة,@BanuZuhra,group,TRUE,FALSE
+بنو زهرة,@BanuZuhra,group,TRUE,FALSE
+ بني هذيل,@BanuHudayl,group,TRUE,FALSE
+ بنو هذيل,@BanuHudayl,group,TRUE,FALSE
+بني تيم,@BanuTaym,group,TRUE,FALSE
+بنو تيم,@BanuTaym,group,TRUE,FALSE
+بني مخزوم,@BanuMakhzum,group,TRUE,FALSE
+بنو مخزوم,@BanuMakhzum,group,TRUE,FALSE
+بني جمح,@BanuJumah,group,TRUE,FALSE
+بنو جمح,@BanuJumah,group,TRUE,FALSE
+بني سهم,@BanuSahm,group,TRUE,FALSE
+بنو سهم,@BanuSahm,group,TRUE,FALSE
+سهم,@BanuSahm,group,TRUE,FALSE
+بني عدي,@BanuCadiyy,group,TRUE,FALSE
+بنو عدي,@BanuCadiyy,group,TRUE,FALSE
+بني عامر,@BanuCamir,group,TRUE,FALSE
+بنو عامر,@BanuCamir,group,TRUE,FALSE
+بني الحارث,@BanuHarith,group,TRUE,FALSE
+بنو الحارث,@BanuHarith,group,TRUE,FALSE
+ثقيف,@BanuThaqif,group,TRUE,FALSE
+بني كلب,@BanuKalb,group,TRUE,FALSE
+بنو كلب,@BanuKalb,group,TRUE,FALSE
+بني حنيفة,@BanuHanifa,group,TRUE,FALSE
+بنو حنيفة,@BanuHanifa,group,TRUE,FALSE
+بني النجار,@BanuNajjar,group,TRUE,FALSE
+بنو النجار,@BanuNajjar,group,TRUE,FALSE
+بني زريق,@BanuZurayq,group,TRUE,FALSE
+بنو زريق,@BanuZurayq,group,TRUE,FALSE
+بني عوف,@BanuCauf,group,TRUE,FALSE
+بنو عوف,@BanuCauf,group,TRUE,FALSE
+بني سالم,@BanuSalim,group,TRUE,FALSE
+بنو سالم,@BanuSalim,group,TRUE,FALSE
+بني سلمة,@BanuSalima,group,TRUE,FALSE
+بنو سلمة,@BanuSalima,group,TRUE,FALSE
+بني سواد,@BanuSawad,group,TRUE,FALSE
+بنو سواد,@BanuSawad,group,TRUE,FALSE
+الأوس,@BanuAus,group,TRUE,FALSE
+الأوس,@BanuAus,group,TRUE,FALSE
+بني عمرو,@BanuCamr,group,TRUE,FALSE
+بنو عمرو,@BanuCamr,group,TRUE,FALSE
+بني عبد الأشهل,@BanuCabdAshhal,group,TRUE,FALSE
+بنو عبد الأشهل,@BanuCabdAshhal,group,TRUE,FALSE
+بني حارثة بن الحارث,@BanuHarithIbnHarith,group,TRUE,FALSE
+بنو حارثة بن الحارث,@BanuHarithIbnHarith,group,TRUE,FALSE
+بني  عمرو بن عوف,@BanuCamrIbnCauf,group,TRUE,FALSE
+بنو  عمرو بن عوف,@BanuCamrIbnCauf,group,TRUE,FALSE
+بني عمرو بن مبذول,@BanuCamrIbnMabdhul,group,TRUE,FALSE
+بنو عمرو بن مبذول,@BanuCamrIbnMabdhul,group,TRUE,FALSE
+ بني عمرو بن مالك,@BanuCamrIbnMalik,group,TRUE,FALSE
+ بنو عمرو بن مالك,@BanuCamrIbnMalik,group,TRUE,FALSE
+بني مازن بن النجار,@BanuMazimIbnNajjar,group,TRUE,FALSE
+بنو مازن بن النجار,@BanuMazimIbnNajjar,group,TRUE,FALSE
+بني بياضة ,@BanuBayadaIbnCamir,group,TRUE,FALSE
+بنو بياضة,@BanuBayadaIbnCamir,group,TRUE,FALSE
+بني زريق,@BanuZurayq,group,TRUE,FALSE
+بنو زريق,@BanuZurayq,group,TRUE,FALSE
+بني غنم بن سواد,@BanuGhanamIbnSawad,group,TRUE,FALSE
+بنو غنم بن سواد,@BanuGhanamIbnSawad,group,TRUE,FALSE
+بني نابي بن عمرو,@BanuNabiIbnCamr,group,TRUE,FALSE
+بنو نابي بن عمرو,@BanuNabiIbnCamr,group,TRUE,FALSE
+بني حرام بن كعب,@BanuHaramIbnKaCb,group,TRUE,FALSE
+بنو حرام بن كعب,@BanuHaramIbnKaCb,group,TRUE,FALSE
+بني عوف بن الخزرج,@BanuCaufIbnKhazraj,group,TRUE,FALSE
+بنو عوف بن الخزرج,@BanuCaufIbnKhazraj,group,TRUE,FALSE
+بني ساعدة,@BanuSaCidaIbnKaCb,group,TRUE,FALSE
+بنو ساعدة,@BanuSaCidaIbnKaCb,group,TRUE,FALSE
+بني مازن بن النجار,@BanuMazinIbnNajjar,group,TRUE,FALSE
+بنو مازن بن النجار,@BanuMazinIbnNajjar,group,TRUE,FALSE
+بني سالم بن غنم,@BanuSalimIbnGhanm,group,TRUE,FALSE
+بنو سالم بن غنم,@BanuSalimIbnGhanm,group,TRUE,FALSE
+الخزرج بن حارثة,@BanuKhazrajIbnHaritha,group,TRUE,FALSE
+بلحارث بن الخزرج,@BanuHarithIbnKhazraj,group,TRUE,FALSE
+بني سلمة بن سعد,@BanuSalamaIbnSacd,group,TRUE,FALSE
+بنو سلمة بن سعد,@BanuSalamaIbnSacd,group,TRUE,FALSE
+بني سواد بن غنم,@BanuSawadIbnGhanm,group,TRUE,FALSE
+بنو سواد بن غنم,@BanuSawadIbnGhanm,group,TRUE,FALSE
+بني النضير,@BanuNadir,group,TRUE,FALSE
+بنو النضير,@BanuNadir,group,TRUE,FALSE
+بني ثعلبة,@BanuThaClaba,group,TRUE,FALSE
+بنو ثعلبة,@BanuThaClaba,group,TRUE,FALSE
+بني قينقاع,@BanuQaynuqaC,group,TRUE,FALSE
+بنو قينقاع,@BanuQaynuqaC,group,TRUE,FALSE
+بني قريظة,@BanuQurayza,group,TRUE,FALSE
+بنو قريظة,@BanuQurayza,group,TRUE,FALSE
+بني زريق,@BanuZurayq,group,TRUE,FALSE
+بنو زريق,@BanuZurayq,group,TRUE,FALSE
+بني حارثة,@BanuHaritha,group,TRUE,FALSE
+بنو حارثة,@BanuHaritha,group,TRUE,FALSE
+ بنى حبيب,@BanuHubayb,group,TRUE,FALSE
+ بنو حبيب,@BanuHubayb,group,TRUE,FALSE
+بني ضبيعة,@BanuDubayCa,group,TRUE,FALSE
+بنو ضبيعة,@BanuDubayCa,group,TRUE,FALSE
+بني لوذان,@BanuLaudhan,group,TRUE,FALSE
+بنو لوذان,@BanuLaudhan,group,TRUE,FALSE
+بني عبيد,@BanuCubayd,group,TRUE,FALSE
+بنو عبيد,@BanuCubayd,group,TRUE,FALSE
+بني النبيت,@BanuNabit,group,TRUE,FALSE
+بنو النبيت,@BanuNabit,group,TRUE,FALSE
+بني ظفر,@BanuZafar,group,TRUE,FALSE
+بنو ظفر,@BanuZafar,group,TRUE,FALSE
+بني عبد الأشهل,@BanuCabdAshhal,group,TRUE,FALSE
+بنو عبد الأشهل,@BanuCabdAshhal,group,TRUE,FALSE
+بني جشم,@BanuJusham,group,TRUE,FALSE
+بنو جشم,@BanuJusham,group,TRUE,FALSE
+بني ضمرة,@BanuDamra,group,TRUE,FALSE
+بنو ضمرة,@BanuDamra,group,TRUE,FALSE
+بني كبير,@BanuKabir,group,TRUE,FALSE
+بنو كبير,@BanuKabir,group,TRUE,FALSE
+بني عبيد بن كعب,@BanuCubaydIbnKaCb,group,TRUE,FALSE
+بنو عبيد بن كعب,@BanuCubaydIbnKaCb,group,TRUE,FALSE
+بني عبد بن رزاح,@BanuCabdIbnRizah,group,TRUE,FALSE
+بنو عبد بن رزاح,@BanuCabdIbnRizah,group,TRUE,FALSE
+بني جحجبى,@BanuJahjaba,group,TRUE,FALSE
+بنو جحجبى,@BanuJahjaba,group,TRUE,FALSE
+بني غنم,@BanuGhanm,group,TRUE,FALSE
+بنو غنم,@BanuGhanm,group,TRUE,FALSE
+بني معاوية,@BanuMuCawiya,group,TRUE,FALSE
+بنو معاوية,@BanuMuCawiya,group,TRUE,FALSE
+بني امرئ القيس,@BanuImruQays,group,TRUE,FALSE
+بنو امرئ القيس,@BanuImruQays,group,TRUE,FALSE
+بني زيد,@BanuZayd,group,TRUE,FALSE
+بنو زيد,@BanuZayd,group,TRUE,FALSE
+بني أحمر,@BanuAhmar,group,TRUE,FALSE
+بنو أحمر,@BanuAhmar,group,TRUE,FALSE
+بني جشم,@BanuJusham,group,TRUE,FALSE
+بنو جشم,@BanuJusham,group,TRUE,FALSE
+بني جدارة,@BanuJidara,group,TRUE,FALSE
+بنو جدارة,@BanuJidara,group,TRUE,FALSE
+بني الأبجر,@BanuAbjar,group,TRUE,FALSE
+بنو الأبجر,@BanuAbjar,group,TRUE,FALSE
+بني جزء,@BanuJaz,group,TRUE,FALSE
+بنو جزء,@BanuJaz,group,TRUE,FALSE
+بني أصرم,@BanuAsram,group,TRUE,FALSE
+بنو أصرم,@BanuAsram,group,TRUE,FALSE
+بني دعد,@BanuDaCd,group,TRUE,FALSE
+بنو دعد,@BanuDaCd,group,TRUE,FALSE
+بني البدي,@BanuBadiy,group,TRUE,FALSE
+بنو البدي,@BanuBadiy,group,TRUE,FALSE
+ بني طريف,@BanuTarif,group,TRUE,FALSE
+ بنو طريف,@BanuTarif,group,TRUE,FALSE
+بني النعمان,@BanuNuCman,group,TRUE,FALSE
+بنو النعمان,@BanuNuCman,group,TRUE,FALSE
+بني عدي بن نابي,@BanuCadiyIbnNabi,group,TRUE,FALSE
+بنو عدي بن نابي,@BanuCadiyIbnNabi,group,TRUE,FALSE
+بني خالد,@BanuKhalid,group,TRUE,FALSE
+بنو خالد,@BanuKhalid,group,TRUE,FALSE
+بني خلدة,@BanuKhalada,group,TRUE,FALSE
+بنو خلدة,@BanuKhalada,group,TRUE,FALSE
+بني العجلان,@BanuCajlan,group,TRUE,FALSE
+بنو العجلان,@BanuCajlan,group,TRUE,FALSE
+بني عسيرة,@BanuCusayra,group,TRUE,FALSE
+بنو عسيرة,@BanuCusayra,group,TRUE,FALSE
+بني عبيد بن ثعلبة,@BanuCubaydIbnThaClaba,group,TRUE,FALSE
+بنو عبيد بن ثعلبة,@BanuCubaydIbnThaClaba,group,TRUE,FALSE
+بني عائذ,@BanuCaidh,group,TRUE,FALSE
+بنو عائذ,@BanuCaidh,group,TRUE,FALSE
+بني عامر بن مالك,@BanuCamirIbnMalik,group,TRUE,FALSE
+بنو عامر بن مالك,@BanuCamirIbnMalik,group,TRUE,FALSE
+بني عدي بن عمرو,@BanuCadiyIbnCamr,group,TRUE,FALSE
+بنو عدي بن عمرو,@BanuCadiyIbnCamr,group,TRUE,FALSE
+بني عدي بن النجار,@BanuCadiyIbnNajjar,group,TRUE,FALSE
+بنو عدي بن النجار,@BanuCadiyIbnNajjar,group,TRUE,FALSE
+بني حرام بن جندب,@BanuHaramIbnJundub,group,TRUE,FALSE
+بنو حرام بن جندب,@BanuHaramIbnJundub,group,TRUE,FALSE
+بني خنساء بن مبذول,@BanuKhansaIbnMabdhul,group,TRUE,FALSE
+بنو خنساء بن مبذول,@BanuKhansaIbnMabdhul,group,TRUE,FALSE
+بني ثعلبة بن مازن,@BanuThaClabaIbnMazin,group,TRUE,FALSE
+بنو ثعلبة بن مازن,@BanuThaClabaIbnMazin,group,TRUE,FALSE
+ بني دينار,@BanuDinarIbnNajjar,group,TRUE,FALSE
+ بنو دينار,@BanuDinarIbnNajjar,group,TRUE,FALSE
+بني الحارث بن فهر,@BanuHarithIbnFihr,group,TRUE,FALSE
+بنو الحارث بن فهر,@BanuHarithIbnFihr,group,TRUE,FALSE
+بني الحارث بن الخزرج,@BanuHarithIbnKhazraj,group,TRUE,FALSE
+بنو الحارث بن الخزرج,@BanuHarithIbnKhazraj,group,TRUE,FALSE
+بني تميم بن مرة,@BanuTaymIbnMurra,group,TRUE,FALSE
+بني سليم,@BanuSulaym,group,TRUE,FALSE
+بنو سليم,@BanuSulaym,group,TRUE,FALSE
+راتج,@AhlRatij,group,TRUE,FALSE
+بني مبذول,@BanuMabdhul,group,TRUE,FALSE
+بنو مبذول,@BanuMabdhul,group,TRUE,FALSE
+بني مازن,@BanuMazin,group,TRUE,FALSE
+بنو مازن,@BanuMazin,group,TRUE,FALSE
+بني الحبلى,@BanuHubla,group,TRUE,FALSE
+بنو الحبلى,@BanuHubla,group,TRUE,FALSE
+بني خطمة,@BanuKhutma,group,TRUE,FALSE
+بنو خطمة,@BanuKhutma,group,TRUE,FALSE
+غطفان,@BanuGhatafan,group,TRUE,FALSE
+بني هدل,@BanuHadl,group,TRUE,FALSE
+بنو هدل,@BanuHadl,group,TRUE,FALSE
+بني لحيان,@BanuLihyan,group,TRUE,FALSE
+بنو لحيان,@BanuLihyan,group,TRUE,FALSE
+بني المصطلق,@BanuMustaliq,group,TRUE,FALSE
+بنو المصطلق,@BanuMustaliq,group,TRUE,FALSE
+بكر,@BanuBakr,group,TRUE,FALSE
+بني جذيمة,@BanuJadhima,group,TRUE,FALSE
+بنو جذيمة,@BanuJadhima,group,TRUE,FALSE
+قضاعة,@BanuQudaCa,group,TRUE,FALSE
+بني سعد,@BanuSaCd,group,TRUE,FALSE
+بنو سعد,@BanuSaCd,group,TRUE,FALSE
+بني عبد مناف,@BanuCabdManaf,group,TRUE,FALSE
+بنو عبد مناف,@BanuCabdManaf,group,TRUE,FALSE
+الخزرج,@BanuKhazraj,group,TRUE,FALSE
+بني قيس بن ثعلبة,@BanuQaysIbnThaCliba,group,TRUE,FALSE
+بنو قيس بن ثعلبة,@BanuQaysIbnThaCliba,group,TRUE,FALSE
+مخزوم,@BanuMakhzum,group,TRUE,FALSE
+بني عمرو بن عوف,@BanuCamrIbnCauf,group,TRUE,FALSE
+بنو عمرو بن عوف,@BanuCamrIbnCauf,group,TRUE,FALSE
+بني جحش,@BanuJahsh,group,TRUE,FALSE
+بنو جحش,@BanuJahsh,group,TRUE,FALSE
+بني عمرو,@BanuCamrIbnCauf,group,TRUE,FALSE
+بنو عمرو,@BanuCamrIbnCauf,group,TRUE,FALSE
+بني عوف,@BanuCaufIbnKhazraj,group,TRUE,FALSE
+بنو عوف,@BanuCaufIbnKhazraj,group,TRUE,FALSE
+بني امرئ القيس,@BanuImruQays,group,TRUE,FALSE
+بنو امرئ القيس,@BanuImruQays,group,TRUE,FALSE
+بني خناس,@BanuKhunas,group,TRUE,FALSE
+بنو خناس,@BanuKhunas,group,TRUE,FALSE
+بني حبيب,@BanuHabib,group,TRUE,FALSE
+بنو حبيب,@BanuHabib,group,TRUE,FALSE
+بني عبد الدار,@BanuCabdDar,group,TRUE,FALSE
+بنو عبد الدار,@BanuCabdDar,group,TRUE,FALSE
+بني عامر,@BanuCamirIbnLuayy,group,TRUE,FALSE
+بنو عامر,@BanuCamirIbnLuayy,group,TRUE,FALSE
+بني المطلب,@BanuMuttalib,group,TRUE,FALSE
+بنو المطلب,@BanuMuttalib,group,TRUE,FALSE
+بني السلم,@BanuSalm,group,TRUE,FALSE
+بنو السلم,@BanuSalm,group,TRUE,FALSE
+بني عوف,@BanuCaufIbnKhazraj,group,TRUE,FALSE
+بنو عوف,@BanuCaufIbnKhazraj,group,TRUE,FALSE
+بني الخزرج,@BanuKhazraj,group,TRUE,FALSE
+بنو الخزرج,@BanuKhazraj,group,TRUE,FALSE
+بني الحارث,@BanuHarithIbnFihr,group,TRUE,FALSE
+بنو الحارث,@BanuHarithIbnFihr,group,TRUE,FALSE
+بني مالك,@BanuMalik,group,TRUE,FALSE
+بنو مالك,@BanuMalik,group,TRUE,FALSE
+بني رئاب,@BanuRaab,group,TRUE,FALSE
+بنو رئاب,@BanuRaab,group,TRUE,FALSE
+هوازن,@Hawazin,group,TRUE,FALSE
+بني تميم,@BanuTaym,group,TRUE,FALSE
+بنو تميم,@BanuTaym,group,TRUE,FALSE
+بني زبيد,@BanuZubayd,group,TRUE,FALSE
+بنو زبيد,@BanuZubayd,group,TRUE,FALSE
+كندة,@BanuKinda,group,TRUE,FALSE
+أهل جرش,@JurashPeople,group,TRUE,FALSE
+بني الحارث بن كعب,@BanuHarithIbnKaCb,group,TRUE,FALSE
+بنو الحارث بن كعب,@BanuHarithIbnKaCb,group,TRUE,FALSE
+بني الملوح,@BanuMulawwah,group,TRUE,FALSE
+بنو الملوح,@BanuMulawwah,group,TRUE,FALSE
+بني فزارة,@BanuFazara,group,TRUE,FALSE
+بنو فزارة,@BanuFazara,group,TRUE,FALSE
+بني العنبر,@BanuACnbar,group,TRUE,FALSE
+بنو العنبر,@BanuACnbar,group,TRUE,FALSE
+بني مرة,@BanuMurra,group,TRUE,FALSE
+بنو مرة,@BanuMurra,group,TRUE,FALSE
+بني ساعدة,@BanuSaCida,group,TRUE,FALSE
+بنو ساعدة,@BanuSaCida,group,TRUE,FALSE
+بنو آدم,@ChildrenofAdam,group,TRUE,FALSE
+بني آدم,@ChildrenofAdam,group,TRUE,FALSE
+بني إسرائيل,@ChildrenofIsrael,group,TRUE,FALSE
+بنو إسرائيل,@ChildrenofIsrael,group,TRUE,FALSE
+بني نوح,@ChildrenofNoah,group,TRUE,FALSE
+بني شيث,@ChildrenofSeth,group,TRUE,FALSE
+بني إسماعيل,@ChildrenofIshmael,group,TRUE,FALSE
+بني إسرائيل,@ChildrenofIsrael,group,TRUE,FALSE
+عاد,@BanuCAd,group,TRUE,FALSE
+ثمود,@BanuThamud,group,TRUE,FALSE
+قوم لوط,@PeopleofLot,group,TRUE,FALSE
+ولد إسماعيل,@ChildrenofIshmael,group,TRUE,FALSE
+الأزد,@BanuAzd,group,TRUE,FALSE
+لخم,@BanuLakhm,group,TRUE,FALSE
+جذام,@BanuJudham,group,TRUE,FALSE
+عاملة,@BanuCamila,group,TRUE,FALSE
+طيئ,@BanuTayyi,group,TRUE,FALSE
+كلب,@BanuKalb,group,TRUE,FALSE
+السكون,@BanuSakkun,group,TRUE,FALSE
+بلحارث بن كعب,@BanuBalharithIbnKaCb,group,TRUE,FALSE
+إياد,@BanuIyad,group,TRUE,FALSE
+ جعفي,@BanuJuCfi,group,TRUE,FALSE
+تميم,@BanuTamim,group,TRUE,FALSE
+أولاد,@descendents,group,TRUE,FALSE
+ولد,@descendents,group,TRUE,FALSE
+العداوة,@enemies,group,TRUE,FALSE
+الأعداء,@enemies,group,TRUE,FALSE
+عداوت,@enemies,group,TRUE,FALSE
+المشركين,@polytheists,group,TRUE,FALSE
+المشركون,@polytheists,group,TRUE,FALSE
+المهاجرين,@Immigrants,group,TRUE,FALSE
+المهاجرون,@Immigrants,group,TRUE,FALSE
+الأنصار,@Helpers,group,TRUE,FALSE
+منافقي,@Hypocrites,group,TRUE,FALSE
+أولادها,@descendants,group,TRUE,FALSE
+أولاده,@descendents,group,TRUE,FALSE
+ولدا,@descendents,group,TRUE,FALSE
+أمهم,@origins,group,TRUE,FALSE
+أمهاتهم,@origins,group,TRUE,FALSE
+للمهاجرين,@Immigrants,group,TRUE,FALSE
+المستهزءون,@Mockers,group,TRUE,FALSE
+المستهزءين,@Mockers,group,TRUE,FALSE
+المنافقين ,@Hypocrites,group,TRUE,FALSE
+المنافقون ,@Hypocrites,group,TRUE,FALSE
+العدوة,@enemies,group,TRUE,FALSE
+البدريين,@WitnessesBadr,group,TRUE,FALSE
+مهاجرة,@Immigrants,group,TRUE,FALSE
+مهاجرات,@Immigrants,group,TRUE,FALSE
+شهداء,@martyrs,group,TRUE,FALSE
+ولدته,@Children,group,TRUE,FALSE
+ولده,@descendents,group,TRUE,FALSE
+نسابة الفرس,@PersianGenealogists,group,TRUE,FALSE
+أهل الأنساب,@Genealogists,group,TRUE,FALSE
+تجار,@Merchants,group,TRUE,FALSE
+العرب,@theArabs,group,TRUE,FALSE
+النصرانية,@Christianity,group,TRUE,FALSE
+حمير,@Himyar,group,TRUE,FALSE
+الفرس,@thePersians,group,TRUE,FALSE
+الأحباش,@theAbyssinians,group,TRUE,FALSE
+الكهان,@Soothsayers,group,TRUE,FALSE
+كاهن,@Soothsayers,group,TRUE,FALSE
+يهود,@Jews,group,TRUE,FALSE
+الرهبان,@Monks,group,TRUE,FALSE
+النصارى,@Christians,group,TRUE,FALSE
+الصحابة,@Companions,group,TRUE,FALSE
+أصحاب رسول الله,@Companions,group,TRUE,FALSE
+مسلمين,@Muslims,group,TRUE,FALSE
+الشهداء,@martyrs,group,TRUE,FALSE
+الأحبار,@Rabbis,group,TRUE,FALSE
+اليهود,@Jews,group,TRUE,FALSE
+اليهودي,@Jews,group,TRUE,FALSE
+أصحابه,@Companions,group,TRUE,FALSE
+المسلمين,@Muslims,group,TRUE,FALSE
+الكفار,@unbeliever,group,TRUE,FALSE
+المؤمنين,@Believers,group,TRUE,FALSE
+المؤمنين,@Believers,group,TRUE,FALSE
+الحبشة,@theAbyssinians,group,TRUE,FALSE
+أحبار,@Rabbis,group,TRUE,FALSE
+المؤمنين,@Believers,group,TRUE,FALSE
+المؤمنون,@Believers,group,TRUE,FALSE
+المسلمين,@Muslims,group,TRUE,FALSE
+المسلمون,@Muslims,group,TRUE,FALSE
+مسلمون,@Muslims,group,TRUE,FALSE
+للمشركين,@polytheists,group,TRUE,FALSE
+للمشركون,@polytheists,group,TRUE,FALSE
+بني,@descendentsTribe,group,TRUE,FALSE
+القبائل,@Tribe,group,TRUE,FALSE
+قبائل,@Tribe,group,TRUE,FALSE
+بنو,@descendentsTribe,group,TRUE,FALSE
+الروم,@Byzantines,group,TRUE,FALSE
+قومه,@TribePeople,group,TRUE,FALSE
+قوم,@TribePeople,group,TRUE,FALSE
+المجوس,@MagiansZorastrians,group,TRUE,FALSE
+دين المجوسية,@MagiansZorastrians,group,TRUE,FALSE
+الأنبياء,@Prophets,group,TRUE,FALSE
+الجن,@Jinn,group,TRUE,FALSE
+الملوك,@kings,group,TRUE,FALSE
+أهل الكتاب,@PeopleoftheBook,group,TRUE,FALSE
+الصابئين,@Sabians,group,TRUE,FALSE
+الحواريون,@DisciplesofJesus,group,TRUE,FALSE
+فرعون,@Pharoahs,group,TRUE,FALSE
+الفراعنة,@Pharoahs,group,TRUE,FALSE
+فرعونا,@Pharoahs,group,TRUE,FALSE
+لفرعون,@Pharoahs,group,TRUE,FALSE
+ملوك فارس,@KingsPersian,group,TRUE,FALSE
+ملوك العجم,@KingsPersian,group,TRUE,FALSE
+النبط,@Nabateans,group,TRUE,FALSE
+علماء الفرس,@PersianScholars,group,TRUE,FALSE
+القبط,@Copts,group,TRUE,FALSE
+قبطية,@Copts,group,TRUE,FALSE
+السودان,@TheBlacks,group,TRUE,FALSE
+فارس,@Persians,group,TRUE,FALSE
+الترك,@Turks,group,TRUE,FALSE
+يأجوج,@Gog,group,TRUE,FALSE
+ماجوج,@Magog,group,TRUE,FALSE
+الصقالبة,@Slavs,group,TRUE,FALSE
+الكنعانيون,@Canaanites,group,TRUE,FALSE
+الكنعانيين,@Canaanites,group,TRUE,FALSE
+الخزر,@Khazars,group,TRUE,FALSE
+النوبة,@Nubians,group,TRUE,FALSE
+فزان,@Fezzanites,group,TRUE,FALSE
+البربر,@Berbers,group,TRUE,FALSE
+الصين,@Chinese,group,TRUE,FALSE
+اليونانية,@Greeks,group,TRUE,FALSE
+الأتراك,@Turks,group,TRUE,FALSE
+الجبارين,@Giants,group,TRUE,FALSE
+صنهاجة,@Sinhaja,group,TRUE,FALSE
+كتامة,@Kutama,group,TRUE,FALSE
+يهوذا,@Judah,group,TRUE,FALSE
+ملوك الهند,@KingsofIndia,group,TRUE,FALSE
+لليونانية,@Greeks,group,TRUE,FALSE
+اليونانيين,@Greeks,group,TRUE,FALSE
+الأشغانون,@Arsacids,group,TRUE,FALSE
+ملوك الطوائف,@RegionalPrincesPersian,group,TRUE,FALSE
+النسب,@genealogy,entity,TRUE,FALSE
+نسب,@genealogy,entity,TRUE,FALSE
+عمر,@age,entity,TRUE,FALSE
+أصل,@origins,entity,TRUE,FALSE
+أول,@first,entity,TRUE,FALSE
+شعر,@poetry,entity,TRUE,FALSE
+الشعر,@poetry,entity,TRUE,FALSE
+القرآن,@Quran,object,TRUE,FALSE
+أصنام,@Idols,object,TRUE,FALSE
+صنم,@Idols,object,TRUE,FALSE
+هبل,@HubalIdol,object,TRUE,FALSE
+اللات,@AlatGod,entity,TRUE,FALSE
+مناة,@ManatGod,entity,TRUE,FALSE
+الإنجيل,@Gospels,object,TRUE,FALSE
+الصلاة,@Prayer,entity,TRUE,FALSE
+تفسير ابن هشام,@TafsirIbnHisham,entity,TRUE,FALSE
+القبلة,@Qibla,entity,TRUE,FALSE
+عدد,@Quantity,entity,TRUE,FALSE
+عدة,@Quantity,entity,TRUE,FALSE
+تاريخ,@Dating,entity,TRUE,FALSE
+وقتها,@Dating,entity,TRUE,FALSE
+الأصنام,@idols,object,TRUE,FALSE
+أصنامها,@idols,object,TRUE,FALSE
+رثاء,@PoetryLament,entity,TRUE,FALSE
+نسبه,@genealogy,entity,TRUE,FALSE
+تفسير,@Tafsir,entity,TRUE,FALSE
+شعره,@Poetry,entity,TRUE,FALSE
+خطبه,@Khutba,entity,TRUE,FALSE
+خطب,@Khutba,entity,TRUE,FALSE
+يومها,@Dating,entity,TRUE,FALSE
+عددهم,@Quantity,entity,TRUE,FALSE
+تاريخها,@Dating,entity,TRUE,FALSE
+تحريض,@provocation,entity,TRUE,FALSE
+أموال,@spoils,object,TRUE,FALSE
+الفيء,@spoils,object,TRUE,FALSE
+القول,@sayings,entity,TRUE,FALSE
+الدلالة,@Proofs,entity,TRUE,FALSE
+المكروه,@Evil,entity,TRUE,FALSE
+النور,@Light,entity,TRUE,FALSE
+نورا,@Light,entity,TRUE,FALSE
+الآية,@Aya,entity,TRUE,FALSE
+كما قال ربنا,@QuranQuote,entity,TRUE,FALSE
+كما قال عز وجل,@QuranQuote,entity,TRUE,FALSE
+قول الله,@QuranQuote,entity,TRUE,FALSE
+الظلمة,@Darkness,entity,TRUE,FALSE
+الريح,@Wind,entity,TRUE,FALSE
+الملائكة,@Angels,entity,TRUE,FALSE
+عمر  آدم,@AdamsAge,entity,TRUE,FALSE
+الكفر,@Unbelief,entity,TRUE,FALSE
+كفر,@Unbelief,entity,TRUE,FALSE
+الطيب,@Perfume,object,TRUE,FALSE
+خبز,@Bread,object,TRUE,FALSE
+الحديد,@Iron,object,TRUE,FALSE
+الحرث,@plough,object,TRUE,FALSE
+السندان,@Anvils,object,TRUE,FALSE
+الكلبتان,@Tongs,object,TRUE,FALSE
+الميقعة,@Mallets,object,TRUE,FALSE
+المطرقة,@Hammers,object,TRUE,FALSE
+الحجر الأسود,@BlackStone,object,TRUE,FALSE
+التوراة,@Torah,object,TRUE,FALSE
+السفينة,@Ark,object,TRUE,FALSE
+كلمات,@Commandments,object,TRUE,FALSE
+الألواح,@Tablets10Commandments,object,TRUE,FALSE
+التابوت,@ArkoftheCovenant,object,TRUE,FALSE
+الشمس,@Sun,object,TRUE,FALSE
+القمر,@Moon,object,TRUE,FALSE
+التربة,@Soil,object,TRUE,FALSE
+الجبال,@Mountains,object,TRUE,FALSE
+الشجر,@Trees,object,TRUE,FALSE
+شجرها,@Trees,object,TRUE,FALSE
+الدواب,@AnimalsBeastsofBurden,object,TRUE,FALSE
+الماء,@Water,object,TRUE,FALSE
+القلم,@Pen,object,TRUE,FALSE
+سحابا,@Clouds,object,TRUE,FALSE
+عرش,@Throne,object,TRUE,FALSE
+عرشه,@Throne,object,TRUE,FALSE
+العرش,@Throne,object,TRUE,FALSE
+البحار,@Oceans,object,TRUE,FALSE
+أقوات,@Food,object,TRUE,FALSE
+النجوم,@Stars,object,TRUE,FALSE
+الأنهار,@Rivers,object,TRUE,FALSE
+الحية,@Serpent,object,TRUE,FALSE
+الثمار,@Fruit,object,TRUE,FALSE
+الحنطة,@Wheat,object,TRUE,FALSE
+ورق التين,@FigLeaf,object,TRUE,FALSE
+ثور,@Ox,object,TRUE,FALSE
+البهائم,@AnimalsDumb,object,TRUE,FALSE
+الوحش,@AnimalsWild,object,TRUE,FALSE
+الطير,@Birds,object,TRUE,FALSE
+الأراك,@ThornBush,object,TRUE,FALSE
+الهدهد,@Hoopoe,object,TRUE,FALSE
+الفيل,@theElephant,event,TRUE,FALSE
+الهجرة الأولى,@MigrationAbyssinia,event,TRUE,FALSE
+الحج,@Hajj,event,TRUE,FALSE
+الحمس,@Hums,event,TRUE,FALSE
+الصحيفة,@Boycott,event,TRUE,FALSE
+المعراج,@MiCraj,event,TRUE,FALSE
+الأذان,@CallToPrayer,event,TRUE,FALSE
+بدر الكبرى,@BadrBattle,event,TRUE,FALSE
+يوم بدر,@BadrBattle,event,TRUE,FALSE
+غزوة أحد,@UhudBattle,event,TRUE,FALSE
+يوم أحد,@UhudBattle,event,TRUE,FALSE
+غزوة الخندق,@TrenchBattle,event,TRUE,FALSE
+يوم الخندق,@TrenchBattle,event,TRUE,FALSE
+الحديبية,@HudaybiyyaTreaty,event,TRUE,FALSE
+يوم خيبر,@KhaybarExpedition,event,TRUE,FALSE
+المسير إلى خيبر,@KhaybarExpedition,event,TRUE,FALSE
+غزوة مؤتة,@MutaRaid,event,TRUE,FALSE
+فتح مكة,@MeccaSiege,event,TRUE,FALSE
+غزوة الطائف,@TaifRaid,event,TRUE,FALSE
+يوم الطائف,@TaifRaid,event,TRUE,FALSE
+غزوة تبوك,@TabukRaid,event,TRUE,FALSE
+سقيفة,@Saqifa,event,TRUE,FALSE
+للصحيفة,@Boycott,event,TRUE,FALSE
+يوم بني قريظة,@BanuQurayzaRaid,event,TRUE,FALSE
+أمر الخندق,@TrenchBattle,event,TRUE,FALSE
+أمر خيبر,@KhaybarExpedition,event,TRUE,FALSE
+فتح خيبر,@KhaybarExpedition,event,TRUE,FALSE
+عمرة القضاء,@FulfilledPilgrimage,event,TRUE,FALSE
+يوم الفتح,@MeccaSiege,event,TRUE,FALSE
+غزوة حنين,@HunaynBattle,event,TRUE,FALSE
+يوم حنين,@HunaynBattle,event,TRUE,FALSE
+حنين,@HunaynBattle,event,TRUE,FALSE
+سنة الوفود,@YearofDeputations,event,TRUE,FALSE
+حجة الوداع,@FarewellPilgrimage,event,TRUE,FALSE
+السقيفة,@Saqifa,event,TRUE,FALSE
+خلق,@Creation,event,TRUE,FALSE
+خلقهما,@Creation,event,TRUE,FALSE
+الخلق,@Creation,event,TRUE,FALSE
+يوم القيامة,@DayResurrection,event,TRUE,FALSE
+قيام الساعة,@DayResurrection,event,TRUE,FALSE
+أول ما خلق,@FirstCreation,event,TRUE,FALSE
+خلق يوما,@CreationDays,event,TRUE,FALSE
+خلق الأيام,@CreationDays,event,TRUE,FALSE
+ابتداء الخلق,@BeginningCreation,event,TRUE,FALSE
+علم الله عز وجل آدم الأسماء,@GodTeachesAdamNames,event,TRUE,FALSE
+علم الله تعالى آدم الأسماء,@GodTeachesAdamNames,event,TRUE,FALSE
+امتحان الله تعالى أبانا آدم,@GodTestsAdam,event,TRUE,FALSE
+أهبط آدم,@FallAdam,event,TRUE,FALSE
+أهبط إلى الأرض,@FallAdam,event,TRUE,FALSE
+أخرج آدم من الجنة,@FallAdam,event,TRUE,FALSE
+خرج من الجنة,@FallAdam,event,TRUE,FALSE
+أهبط من الجنة,@FallAdam,event,TRUE,FALSE
+الطوفان,@TheFlood,event,TRUE,FALSE
+ذبح إسحاق,@SacrificeofIsaac,event,TRUE,FALSE
+بذبح ابنه,@SacrificeofIsaac,event,TRUE,FALSE
+أمر بذبحه,@SacrificeofIsaac,event,TRUE,FALSE
+حفر زمزم,@DiggingZamzam,event,TRUE,FALSE
+امتحن الله,@GodTest,event,TRUE,FALSE
+كلم من الشجرة,@BurningBush,event,TRUE,FALSE
+بناء المسجد,@BuildingtheTemple,event,TRUE,FALSE
+خرب المدينة والهيكل,@DestructionoftheTempleJerusalem,event,TRUE,FALSE
+تخريبه بيت المقدس,@DestructionoftheTempleJerusalem,event,TRUE,FALSE
+هدم البيت,@DestructionoftheTempleJerusalem,event,TRUE,FALSE
+خرب بيت المقدس,@DestructionoftheTempleJerusalem,event,TRUE,FALSE
+إخراب المسجد,@DestructionoftheTempleJerusalem,event,TRUE,FALSE
+سبى بني إسرائيل,@CaptivityofChildrenofIsrael,event,TRUE,FALSE
+سبايا بني إسرائيل,@CaptivityofChildrenofIsrael,event,TRUE,FALSE
+مقتل,@killed,event,TRUE,FALSE
+قتل,@killed,event,TRUE,FALSE
+استشهد,@martyred,event,TRUE,FALSE
+استشهاد,@martyred,event,TRUE,FALSE
+موت,@death,event,TRUE,FALSE
+وفاة,@death,event,TRUE,FALSE
+ابتداء,@beginning,event,TRUE,FALSE
+المستولي,@occupation,event,TRUE,FALSE
+مستولي,@occupation,event,TRUE,FALSE
+استيلاء,@occupation,event,TRUE,FALSE
+افتتاح,@occupation,event,TRUE,FALSE
+هجرة,@migration,event,TRUE,FALSE
+الهجرة,@migration,event,TRUE,FALSE
+هجرته,@migration,event,TRUE,FALSE
+غزو,@raid,event,TRUE,FALSE
+غزوة,@raid,event,TRUE,FALSE
+الغزوات,@raid,event,TRUE,FALSE
+سرية,@expedition,event,TRUE,FALSE
+قتال,@fighting,event,TRUE,FALSE
+القتال,@fighting,event,TRUE,FALSE
+دفن,@Burial,event,TRUE,FALSE
+ولادة,@Birth,event,TRUE,FALSE
+تزويج,@Marriage,event,TRUE,FALSE
+زواج,@Marriage,event,TRUE,FALSE
+إسلام,@ConversiontoIslam,event,TRUE,FALSE
+أسلم,@ConversiontoIslam,event,TRUE,FALSE
+تنزيل القرآن,@RevelationQuran,event,TRUE,FALSE
+ما أنزل الله,@RevelationQuran,event,TRUE,FALSE
+ما أنزله الله,@RevelationQuran,event,TRUE,FALSE
+ما نزل فيه,@RevelationQuran,event,TRUE,FALSE
+نزول سورة,@RevelationQuran,event,TRUE,FALSE
+ما نزل فيهم,@RevelationQuran,event,TRUE,FALSE
+نزول آيات,@RevelationQuran,event,TRUE,FALSE
+نزول هذه الآية,@RevelationQuran,event,TRUE,FALSE
+ما نزل في,@RevelationQuran,event,TRUE,FALSE
+ما نزل فيمن,@RevelationQuran,event,TRUE,FALSE
+ما نزل من,@RevelationQuran,event,TRUE,FALSE
+نزول القرآن,@RevelationQuran,event,TRUE,FALSE
+نزول براءة,@RevelationQuran,event,TRUE,FALSE
+من شهد,@witnessing,event,TRUE,FALSE
+أسرى,@TakenPrisoner,event,TRUE,FALSE
+الهدنة,@Truce,event,TRUE,FALSE
+الصلح,@Truce,event,TRUE,FALSE
+أزواج,@Marriage,event,TRUE,FALSE
+شكوى,@Illness,event,TRUE,FALSE
+تمريض,@Illness,event,TRUE,FALSE
+المرض,@Illness,event,TRUE,FALSE
+قتله,@killed,event,TRUE,FALSE
+موته,@death,event,TRUE,FALSE
+قبره,@Burial,event,TRUE,FALSE
+ميلاد,@Birth,event,TRUE,FALSE
+نكاح,@Marriage,event,TRUE,FALSE
+تزوج,@Marriage,event,TRUE,FALSE
+تزوجه,@Marriage,event,TRUE,FALSE
+زواجه,@Marriage,event,TRUE,FALSE
+إسلامه,@ConversiontoIslam,event,TRUE,FALSE
+ما أنزله تعالى,@RevelationQuran,event,TRUE,FALSE
+نزول آية,@RevelationQuran,event,TRUE,FALSE
+مهاجرة,@migration,event,TRUE,FALSE
+إلى الإسلام,@ConversiontoIslam,event,TRUE,FALSE
+عهدا,@Agreement,event,TRUE,FALSE
+عهد,@Agreement,event,TRUE,FALSE
+العهد,@Agreement,event,TRUE,FALSE
+من شهدها,@witnessing,event,TRUE,FALSE
+مرض,@Illness,event,TRUE,FALSE
+السرية,@expedition,event,TRUE,FALSE
+سريته,@expedition,event,TRUE,FALSE
+شهود,@witnessing,event,TRUE,FALSE
+من حضر,@attending,event,TRUE,FALSE
+قتلى,@killed,event,TRUE,FALSE
+أمر,@AffairStory,event,TRUE,FALSE
+خبر,@AffairStory,event,TRUE,FALSE
+قصة,@AffairStory,event,TRUE,FALSE
+قتله,@killed,event,TRUE,FALSE
+الموت,@death,event,TRUE,FALSE
+مقتله,@killed,event,TRUE,FALSE
+هاجر,@migration,event,TRUE,FALSE
+للقتال,@fighting,event,TRUE,FALSE
+للصلح,@Truce,event,TRUE,FALSE
+من شهدوا,@witnessing,event,TRUE,FALSE
+بيعة,@homage,event,TRUE,FALSE
+البيعة,@homage,event,TRUE,FALSE
+شأن,@AffairStory,event,TRUE,FALSE
+استشهاده,@martyred,event,TRUE,FALSE
+مصالحة,@Truce,event,TRUE,FALSE
+يوم الفتح,@MeccaSiege,event,TRUE,FALSE
+حج,@Pilgrimage,event,TRUE,FALSE
+شأن,@AffairStory,event,TRUE,FALSE
+إسلامها,@ConversiontoIslam,event,TRUE,FALSE
+ما نزل بسبب,@RevelationQuran,event,TRUE,FALSE
+المغازي,@raid,event,TRUE,FALSE
+إسلامهم,@ConversiontoIslam,event,TRUE,FALSE
+وفد,@deputation,event,TRUE,FALSE
+الوفد,@deputation,event,TRUE,FALSE
+وفدهم,@deputation,event,TRUE,FALSE
+الغزوة,@raid,event,TRUE,FALSE
+غزوات,@raid,event,TRUE,FALSE
+الزواج,@Marriage,event,TRUE,FALSE
+السرية,@expedition,event,TRUE,FALSE
+الشكوى,@Illness,event,TRUE,FALSE
+بدء,@beginning,event,TRUE,FALSE
+تمريضه,@Illness,event,TRUE,FALSE
+دفنه,@Burial,event,TRUE,FALSE
+رمضان,@RamadanFast,event,TRUE,FALSE
+المغرب,@Sunset,event,TRUE,FALSE
+الأحداث,@Events,event,TRUE,FALSE
+وفاه,@Death,event,TRUE,FALSE
+أول من,@FirstToDo,event,TRUE,FALSE
+صام,@Fasting,event,TRUE,FALSE
+غزاة,@Raid,event,TRUE,FALSE
+الطواف,@CirculambulatingKaCba,event,TRUE,FALSE
+ازواج,@Marriage,event,TRUE,FALSE
+غزا,@Raid,event,TRUE,FALSE
+مغازي,@Raid,event,TRUE,FALSE
+غزوته,@Raid,event,TRUE,FALSE
+غزا,@Raid,event,TRUE,FALSE
+اليمن,@Yemen,place,TRUE,FALSE
+العراق,@Iraq,place,TRUE,FALSE
+يثرب,@Medina,place,TRUE,FALSE
+المدينة,@Medina,place,TRUE,FALSE
+البيت,@KaCba,place,TRUE,FALSE
+الكعبة,@KaCba,place,TRUE,FALSE
+الحبشة,@Abyssinia,place,TRUE,FALSE
+مكة,@Mecca,place,TRUE,FALSE
+الشام,@GreaterSyria,place,TRUE,FALSE
+عمان,@Oman,place,TRUE,FALSE
+زمزم,@Zamzam,place,TRUE,FALSE
+الموصل,@Mosul,place,TRUE,FALSE
+نصيبين,@Nisibis,place,TRUE,FALSE
+عمورية,@Amorium,place,TRUE,FALSE
+العقبة,@Caqaba,place,TRUE,FALSE
+مسجد قباء,@QubaMosque,place,TRUE,FALSE
+قباء,@QubaMosque,place,TRUE,FALSE
+نجران,@Najran,place,TRUE,FALSE
+ودان,@Waddan,place,TRUE,FALSE
+بواط,@Buwat,place,TRUE,FALSE
+العشيرة,@Ushayra,place,TRUE,FALSE
+صفوان,@Safwan,place,TRUE,FALSE
+بدر,@Badr,place,TRUE,FALSE
+الكدر,@Kudr,place,TRUE,FALSE
+القردة,@Qarada,place,TRUE,FALSE
+ خيبر,@Khaybar,place,TRUE,FALSE
+مؤتة,@Muta,place,TRUE,FALSE
+الطائف,@Taif,place,TRUE,FALSE
+تبوك,@Tabuk,place,TRUE,FALSE
+فلسطين,@Palestine,place,TRUE,FALSE
+سيف البحر,@Coast,place,TRUE,FALSE
+مصر,@Egypt,place,TRUE,FALSE
+الحضر,@Hatra,place,TRUE,FALSE
+للكعبة,@KaCba,place,TRUE,FALSE
+مسجد المدينة,@QubaMosque,place,TRUE,FALSE
+مسجد,@Mosque,place,TRUE,FALSE
+بدرا,@Badr,place,TRUE,FALSE
+السماوات,@TheHeavens,place,TRUE,FALSE
+السماء,@TheHeavens,place,TRUE,FALSE
+الأرض,@TheEarth,place,TRUE,FALSE
+المدائن,@Cities,place,TRUE,FALSE
+المسجد الحرام,@KaCba,place,TRUE,FALSE
+المسجد الأقصى,@AqsaMosque,place,TRUE,FALSE
+الجنة,@HeavenParadise,place,TRUE,FALSE
+الهند,@India,place,TRUE,FALSE
+سرنديب,@Ceylon,place,TRUE,FALSE
+بيت المقدس,@Jerusalem,place,TRUE,FALSE
+بابل,@Babylon,place,TRUE,FALSE
+سواد,@Sawad,place,TRUE,FALSE
+الكوفة,@Kufa,place,TRUE,FALSE
+السوس,@Susa,place,TRUE,FALSE
+النيل,@Nile,place,TRUE,FALSE
+الفرات,@Euphrates,place,TRUE,FALSE
+دجلة,@Tigris,place,TRUE,FALSE
+سيحان,@Sayhan,place,TRUE,FALSE
+جيحان,@Jayhan,place,TRUE,FALSE
+فيشون,@Fayshan,place,TRUE,FALSE
+السند,@Sind,place,TRUE,FALSE
+الصراة,@Sarat,place,TRUE,FALSE
+الحجاز,@Hijaz,place,TRUE,FALSE
+البحرين,@Bahrayn,place,TRUE,FALSE
+تيماء,@Tayma,place,TRUE,FALSE
+نجد,@Najd,place,TRUE,FALSE
+اليمامة,@Yamama,place,TRUE,FALSE
+حضرموت,@Hadramawt,place,TRUE,FALSE
+صنعاء,@SanaCa,place,TRUE,FALSE
+السوس,@Sus,place,TRUE,FALSE
+الأهواز,@Ahwaz,place,TRUE,FALSE
+حران,@Harran,place,TRUE,FALSE
+السبع,@Beersheba,place,TRUE,FALSE
+عرفات,@MountArafat,place,TRUE,FALSE
+الصرح,@TowerofBabel,place,TRUE,FALSE
+أرض الروم,@Byzantium,place,TRUE,FALSE
+الأردن,@Jordan,place,TRUE,FALSE
+سدوم,@Sodom,place,TRUE,FALSE
+حبرون,@Hebron,place,TRUE,FALSE
+خراسان,@Khurasan,place,TRUE,FALSE
+لليمن,@Yemen,place,TRUE,FALSE
+الحيرة,@Hira,place,TRUE,FALSE
+الإسكندرية,@Alexandria,place,TRUE,FALSE
+الري,@Rayy,place,TRUE,FALSE
+الأنبار,@Anbar,place,TRUE,FALSE
+أذربيجان,@Azerbaijan,place,TRUE,FALSE
+البصرة,@Basra,place,TRUE,FALSE
+طور سيناء,@MountSinai,place,TRUE,FALSE
+أريحا,@Jericho,place,TRUE,FALSE
+طبرستان,@Tabaristan,place,TRUE,FALSE
+إفريقية,@Ifriqiya,place,TRUE,FALSE
+البيت,@Temple,place,TRUE,FALSE
+بلخ,@Ballkh,place,TRUE,FALSE
+سجستان,@Sijistan,place,TRUE,FALSE
+زابلستان,@Zabulistan,place,TRUE,FALSE
+خوزستان,@Khuzistan,place,TRUE,FALSE
+كرمان,@Kirman,place,TRUE,FALSE
+ترشيش,@Tarshish,place,TRUE,FALSE
+إيلياء,@Jerusalem,place,TRUE,FALSE
+نينوى,@Nineva,place,TRUE,FALSE
+الهيكل,@Temple,place,TRUE,FALSE
+دمشق,@Damascus,place,TRUE,FALSE
+التبت,@Tibet,place,TRUE,FALSE
+أصبهان,@Isbahan,place,TRUE,FALSE
+أنطاكية,@Antioch,place,TRUE,FALSE
+القسطنطينية,@Constantinople,place,TRUE,FALSE
+بيت لحم,@Bethlehem,place,TRUE,FALSE
+صفر,@SafarMonth,time,TRUE,FALSE
+سنة ثلاث,@Year3,time,TRUE,FALSE
+سنة أربع,@Year4,time,TRUE,FALSE
+شعبان,@ShaCbanMonth,time,TRUE,FALSE
+ربيع الأول,@RabiCAwwalMonth,time,TRUE,FALSE
+سنة خمس,@Year5,time,TRUE,FALSE
+شوال,@ShawwalMonth,time,TRUE,FALSE
+سنة ست,@Year6,time,TRUE,FALSE
+المحرم ,@MuharramMonth,time,TRUE,FALSE
+سنة سبع,@Year7,time,TRUE,FALSE
+ذي القعدة,@DhuQaCdaMonth,time,TRUE,FALSE
+ذو القعدة,@DhuQaCdaMonth,time,TRUE,FALSE
+سنة ثمان,@Year8,time,TRUE,FALSE
+جمادى الأولى,@JumadaAwwalMonth,time,TRUE,FALSE
+رمضان,@RamadanMonth,time,TRUE,FALSE
+رجب,@RajabMonth,time,TRUE,FALSE
+سنة تسع,@Year9,time,TRUE,FALSE
+ربيع الآخر,@RabiCAkharlMonth,time,TRUE,FALSE
+ربيع الثاني,@RabiCAkharlMonth,time,TRUE,FALSE
+جمادى الآخرة,@JumadaAkharMonth,time,TRUE,FALSE
+جمادى الثانية,@JumadaAkharMonth,time,TRUE,FALSE
+ذي الحجة,@DhuHijjaMonth,time,TRUE,FALSE
+ذو الحجة,@DhuHijjaMonth,time,TRUE,FALSE
+سنة ثماني,@Year8,time,TRUE,FALSE
+الزمان,@time,time,TRUE,FALSE
+الليل,@Night,time,TRUE,FALSE
+النهار,@Day,time,TRUE,FALSE
+يوم الأحد,@Sunday,time,TRUE,FALSE
+يوم الاثنين,@Monday,time,TRUE,FALSE
+يوم الثلاثاء,@Tuesday,time,TRUE,FALSE
+يوم الأربعاء,@Wednesday,time,TRUE,FALSE
+يوم الخميس,@Thursday,time,TRUE,FALSE
+يوم الجمعة,@Friday,time,TRUE,FALSE
+يوم السبت,@Saturday,time,TRUE,FALSE
+الجاهلية,@Jahiliyya,time,TRUE,FALSE
+نوروز,@Nawruz,time,TRUE,FALSE
+يوم عاشوراء,@Cashura,time,TRUE,FALSE
+عام الفيل,@YearoftheElephant,time,TRUE,FALSE
+التاريخ,@Dating,time,TRUE,FALSE
