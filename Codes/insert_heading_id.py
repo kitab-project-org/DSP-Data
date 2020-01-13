@@ -11,8 +11,8 @@ def add_heading_numbers(file, splitter):
     body = orig_text.split(splitter)
     header = body[0]
     text = body[1]
-    print(header)
-    print("***")
+    # print(header)
+    # print("***")
     # lines = body_text.splitlines()
     sections = re.split("(### \|+)", text)
     # sections = re.split("(### \|+ [\s\S]*)", body_text)
@@ -25,31 +25,62 @@ def add_heading_numbers(file, splitter):
     h5_cnt = 0
 
     # for l in lines:
-    for i in range(0, len(sections) - 1):
+    i = 0
+    while i < len(sections) - 1:
         # if l.startswith("### |||||"):
         if sections[i].startswith("### |||||"):
             h5_cnt += 1
 
             hr_nr = ".".join([str(h1_cnt), str(h2_cnt), str(h3_cnt), str(h4_cnt), str(h5_cnt)])
             lines = sections[i + 1].split("\n")
-            units = units + sections[i] + lines[0] + " " + hr_nr + "\n" + "\n".join(lines[1:])
+            # remove empty elements to filter the sections with one line and avoid duplicating the heading line of
+            # section with one single line. The section with one line means a heading that does not have any body text
+            # and its next line is the next (sub-)section.
+            non_empty_lines = list(filter(None, lines))
+            if len(lines) > 1:
+                units = units + sections[i] + non_empty_lines[0] + " " + hr_nr + "\n" + \
+                        "\n".join(non_empty_lines[1:]) + "\n"
+                i += 2
+            else:
+                units = units + sections[i] + non_empty_lines[0] + " " + hr_nr + "\n"
+                i += 2
 
         elif sections[i].startswith("### ||||"):
             h4_cnt += 1
-            h5_cnt += 0
+            h5_cnt = 0
 
             hr_nr = ".".join([str(h1_cnt), str(h2_cnt), str(h3_cnt), str(h4_cnt), str(h5_cnt)])
             lines = sections[i + 1].split("\n")
-            units = units + sections[i] + lines[0] + " " + hr_nr + "\n" + "\n".join(lines[1:])
+            # remove empty elements to filter the sections with one line and avoid duplicating the heading line of
+            # section with one single line. The section with one line means a heading that does not have any body text
+            # and its next line is the next (sub-)section.
+            non_empty_lines = list(filter(None, lines))
+            if len(non_empty_lines) > 1:
+                units = units + sections[i] + non_empty_lines[0] + " " + hr_nr + "\n" + \
+                        "\n".join(non_empty_lines[1:]) + "\n"
+                i += 2
+            else:
+                units = units + sections[i] + non_empty_lines[0] + " " + hr_nr + "\n"
+                i += 2
 
         elif sections[i].startswith("### |||"):
             h3_cnt += 1
-            h4_cnt += 0
-            h5_cnt += 0
+            h4_cnt = 0
+            h5_cnt = 0
 
             hr_nr = ".".join([str(h1_cnt), str(h2_cnt), str(h3_cnt), str(h4_cnt), str(h5_cnt)])
             lines = sections[i + 1].split("\n")
-            units = units + sections[i] + lines[0] + " " + hr_nr + "\n" + "\n".join(lines[1:])
+            # remove empty elements to filter the sections with one line and avoid duplicating the heading line of
+            # section with one single line. The section with one line means a heading that does not have any body text
+            # and its next line is the next (sub-)section.
+            non_empty_lines = list(filter(None, lines))
+            if len(non_empty_lines) > 1:
+                units = units + sections[i] + non_empty_lines[0] + " " + hr_nr + "\n" + \
+                        "\n".join(non_empty_lines[1:]) + "\n"
+                i += 2
+            else:
+                units = units + sections[i] + non_empty_lines[0] + " " + hr_nr + "\n"
+                i += 2
 
         elif sections[i].startswith("### ||"):
             h2_cnt += 1
@@ -59,7 +90,17 @@ def add_heading_numbers(file, splitter):
 
             hr_nr = ".".join([str(h1_cnt), str(h2_cnt), str(h3_cnt), str(h4_cnt), str(h5_cnt)])
             lines = sections[i + 1].split("\n")
-            units = units + sections[i] + lines[0] + " " + hr_nr + "\n" + "\n".join(lines[1:])
+            # remove empty elements to filter the sections with one line and avoid duplicating the heading line of
+            # section with one single line. The section with one line means a heading that does not have any body text
+            # and its next line is the next (sub-)section.
+            non_empty_lines = list(filter(None, lines))
+            if len(non_empty_lines) > 1:
+                units = units + sections[i] + non_empty_lines[0] + " " + hr_nr + "\n" +\
+                        "\n".join(non_empty_lines[1:]) + "\n"
+                i += 2
+            else:
+                units = units + sections[i] + non_empty_lines[0] + " " + hr_nr + "\n"
+                i += 2
 
         elif sections[i].startswith("### |"):
             h1_cnt += 1
@@ -70,9 +111,21 @@ def add_heading_numbers(file, splitter):
 
             hr_nr = ".".join([str(h1_cnt), str(h2_cnt), str(h3_cnt), str(h4_cnt), str(h5_cnt)])
             lines = sections[i + 1].split("\n")
-            units = units + sections[i] + lines[0] + " " + hr_nr + "\n" + "\n".join(lines[1:])
+            # remove empty elements to filter the sections with one line and avoid duplicating the heading line of
+            # section with one single line. The section with one line means a heading that does not have any body text
+            # and its next line is the next (sub-)section.
+            non_empty_lines = list(filter(None, lines))
+            if len(non_empty_lines) > 1:
+                units = units + sections[i] + non_empty_lines[0] + " " + hr_nr + "\n" + \
+                        "\n".join(non_empty_lines[1:]) + "\n"
+                i += 2
+            else:
+                units = units + sections[i] + non_empty_lines[0] + " " + hr_nr + "\n"
+                i += 2
+
         else:
             units = units + sections[i]
+            i += 1
 
     writer.write(header + splitter + units)
 
