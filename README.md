@@ -1,5 +1,5 @@
 # DSP-Data
-Data required for VRR
+Data required for the VRR
 
 **This data repository adopts the following structure (subject to change):**
 
