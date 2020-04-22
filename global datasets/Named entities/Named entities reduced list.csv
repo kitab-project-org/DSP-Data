@@ -1,4 +1,4 @@
-entity,tag,category
+﻿entity,tag,category
 آدم,@AdamProphet,person
 إسماعيل,@IsmaCilProphet,person
 إبراهيم,@AbrahamProphet,person
@@ -74,14 +74,14 @@ entity,tag,category
 وهرز,@Wahriz,person
 كسرى,@ChosroesShah,person
 نزار بن معد,@NizarIbnMaCd,person
-عبد مناف,@AbdManaf,person
+عبد مناف بن قصي,@AbdManafBinQusayy,person
 هاشم,@Hashim,person
 قصي بن كلاب,@QusayyIbnKilab,person
-عبد شمس,@AbdShams,person
-عبد الله بن عبد المطلب,@AbdAllahIbnMutallib,person
+عبد شمس بن عبد مناف,@AbdShams,person
+عبد الله بن عبد المطلب,@AbdAllahIbnAbdMutallib,person
 حليمة,@Halima,person
 آمنة,@AminaMotherProphet,person
-العباس,@CabbasIbnCabdMutallib,person
+العباس بن عبد المطلب,@CabbasIbnCabdMutallib,person
 أبي طالب,@AbuTalib,person
 أبو طالب,@AbuTalib,person
 بحيرى,@BahiraMonk,person
@@ -90,18 +90,18 @@ entity,tag,category
 علي بن أبي طالب,@CaliIbnAbiTalib,person
 أبي بكر,@AbuBakr,person
 أبو بكر,@AbuBakr,person
-عثمان,@CuthmanIbnAffan,person
-الزبير ,@ZubayrIbnAwwam,person
-طلحة,@TalhaIbnUbayullah,person
+عثمان بن عفان,@CuthmanIbnAffan,person
+,,person
+,,person
 الوليد بن المغيرة,@WalidIbnMughira,person
-حمزة,@HamzaIbnCabdMutallib,person
-أبي جهل,@AbuJahl,person
-أبو جهل,@AbuJahl,person
+حمزة بن عبد المطلب,@HamzaIbnCabdMutallib,person
+أبي جهل بن هشام,@AbuJahl,person
+أبو جهل بن هشام,@AbuJahl,person
 عتبة بن ربيعة,@CutbaIbnRabiCa,person
 أبو سفيان,@AbuSufyan,person
 أبي سفيان,@AbuSufyan,person
 بلال,@Bilal,person
-ابن عباس,@CabdAllahIbnCabbas,person
+,,person
 عمر بن الخطاب,@CumarIbnKhattab,person
 ذي القرنين,@DhuQarnayn,person
 ذو القرنين,@DhuQarnayn,person
@@ -113,21 +113,19 @@ entity,tag,category
 أبو العاص بن الربيع,@AbuCasIbnRabiCa,person
 زينب,@ZaynabBintMuhammad,person
 زيد بن حارثة,@ZaydIbnHaritha,person
-هند,@Hind,person
 عمرو بن العاص ,@CamrIbnCas,person
 خالد بن الوليد,@KhalidIbnWalid,person
-أبي جندل,@AbuJandal,person
-أبو جندل,@AbuJandal,person
+أبي جندل بن سهيل,@AbuJandal,person
+أبو جندل بن سهيل,@AbuJandal,person
 عبد الله بن أمية,@AbdullahIbnUmayya,person
 مسيلمة,@Musaylima,person
 هاجر,@Hajar,person
-خندف,@Khindif,person
 قصي بن كلاب,@QusayyIbnKilab,person
 أبا طالب,@AbuTalib,person
 أبا بكر,@AbuBakr,person
-أبا جهل,@AbuJahl,person
+أبا جهل بن هشام,@AbuJahl,person
 ملوك الروم,@EmperorRome,person
-للعباس,@CabbasIbnCabdMutallib,person
+للعباس بن عبد المطلب,@CabbasIbnCabdMutallib,person
 خالد,@KhalidIbnWalid,person
 سودة,@SawdaWife,person
 زينب بنت جحش,@ZaynadBintJahshWife,person
