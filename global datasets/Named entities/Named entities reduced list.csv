@@ -1,4 +1,4 @@
-﻿entity,tag,category
+entity,tag,category
 آدم,@AdamProphet,person
 إسماعيل,@IsmaCilProphet,person
 إبراهيم,@AbrahamProphet,person
@@ -91,8 +91,6 @@
 أبي بكر,@AbuBakr,person
 أبو بكر,@AbuBakr,person
 عثمان بن عفان,@CuthmanIbnAffan,person
-,,person
-,,person
 الوليد بن المغيرة,@WalidIbnMughira,person
 حمزة بن عبد المطلب,@HamzaIbnCabdMutallib,person
 أبي جهل بن هشام,@AbuJahl,person
@@ -101,7 +99,6 @@
 أبو سفيان,@AbuSufyan,person
 أبي سفيان,@AbuSufyan,person
 بلال,@Bilal,person
-,,person
 عمر بن الخطاب,@CumarIbnKhattab,person
 ذي القرنين,@DhuQarnayn,person
 ذو القرنين,@DhuQarnayn,person
