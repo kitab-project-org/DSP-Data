@@ -84,30 +84,10 @@ def mechanical_chunking(file_name, body_data, target_path, ms, threshold):
     return cnt
 
 
-def check_pri_ids(full_id, pri_list):
-    b_id = full_id.split(".")[2] # get the last part of the name, book id, e.g., JK00001-ara1.inProgress
-    id_nr = re.split("-ara1|-per1", b_id)[0] # get the book id, e.g., JK00001 or JK00001A
-    if re.search("[A-Z]{1}$", id_nr):
-        id_nr = id_nr[:-1]
-    if id_nr in pri_list:
-        return True
-    else:
-        return False
-
-
-# def groupby_books(full_id):
-#     id_parts = re.split("-ara1|-per1", full_id)
-#     if re.search("[A-Z]{1}$", id_parts[0]):
-#         return (id_parts[0][:-1], id_parts[1])
-#     else:
-#         return (id_parts[0], id_parts[1])
-
-
 if __name__ == '__main__':
 
     main_folder = input("Enter the path to the OpenITI folder: ")
     target_folder = input("Enter the path to write the new files: ")
-    metadata_file = input("Enter the path to the metadata file: ")
     filter_pri_books = input("Do you want to filter primary books? (y or n) ")
 
     if len(sys.argv) > 0:
@@ -115,9 +95,6 @@ if __name__ == '__main__':
             print("invalid path: ", main_folder)
         elif not os.path.exists(target_folder):
             print("invalid path: ", target_folder)
-        elif not os.path.exists(metadata_file):
-            # metadata file is placed in the current folder!
-            print("invalid metadata path: ", metadata_file)
 
         else:
             while filter_pri_books.capitalize() not in ["Y", "N"]:
@@ -133,8 +110,8 @@ if __name__ == '__main__':
             thresh = 1000
 
             metadata = pd.read_csv(metadata_file, delimiter="\t")  # ), index_col=1, skiprows=1).T.to_dict()
-            pri_metadata = metadata[metadata["status"] == "pri"]
-            pri_books = list(pri_metadata['id'])
+            # pri_metadata = metadata[metadata["status"] == "pri"]
+            # pri_books = list(pri_metadata['id'])
 
             for root, dirs, files in os.walk(main_folder):
                 dirs[:] = [d for d in dirs]  # if d not in zfunc.exclude]
@@ -142,12 +119,7 @@ if __name__ == '__main__':
                          re.search("^\d{4}\w+\.\w+\.\w+-\w{4}(\.(mARkdown|completed|inProgress))?$", f)]
                 # texts_noExt = set([re.split("\.(mARkdown|completed|inProgress)", t)[0] for t in texts])
 
-                if filter_pri_books.capitalize() == "Y":
-                    pri_texts = list(filter(lambda x: check_pri_ids(x, pri_books), texts))
-                    grouped_ids = [list(items) for gr, items in
-                               groupby(sorted(pri_texts), key=lambda name: re.split("-ara1|-per1", name)[0])]
-                elif filter_pri_books.capitalize() == "N":
-                    grouped_ids = [list(items) for gr, items in
+                grouped_ids = [list(items) for gr, items in
                            groupby(sorted(texts), key=lambda name: re.split("-ara1|-per1", name)[0])]
 
                 id_ext_dict = {}
