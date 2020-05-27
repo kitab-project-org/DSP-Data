@@ -7,9 +7,30 @@ import re
 import os
 import sys
 from itertools import groupby
-
 import pandas as pd
-from CORPUS.OpenITI.helper.ara import ara_manipulation
+
+
+def roundup(x, par):
+    new_x = int(math.ceil(int(x) / float(par)) * par)
+    return new_x
+
+
+def normalize_ara_extra_light(text):
+    new_text = text
+    # patterns to replace
+    rep = {}
+
+    # do the replacement
+    for k, v in rep.items():
+        new_text = re.sub(k, rep[k], new_text)
+    return new_text
+
+
+def text_cleaner(text):
+    text = normalize_ara_extra_light(text)
+    text = re.sub("\W|\d|[A-z]", " ", text)
+    text = re.sub(" +", " ", text)
+    return text
 
 
 def mechanical_chunking(file_name, body_data, target_path, ms, threshold):
@@ -41,7 +62,7 @@ def mechanical_chunking(file_name, body_data, target_path, ms, threshold):
                 counter += 1
                 # new_id = file_id + ".ms%s" % str(counter).zfill(ms_cnt_str_len)
                 new_id = file_id + "." + body_data[i + 1]
-                text = ara_manipulation.text_cleaner(body_data[i])
+                text = text_cleaner(body_data[i])
                 seq = int(re.sub('[^0-9]', "", body_data[i + 1]))
                 rec_text = rec % (new_id, file_id, text, seq)
 
@@ -54,7 +75,7 @@ def mechanical_chunking(file_name, body_data, target_path, ms, threshold):
                 # update the data index to jump to the next data cell since data has data and msIDs
                 i += 2
 
-            counter_final = ara_manipulation.roundup(counter, threshold)
+            counter_final = roundup(counter, threshold)
             with open(target_path + "-%05d" % counter_final, "w", encoding="utf8") as ft:
                 ft.write("\n".join(cex))
 
